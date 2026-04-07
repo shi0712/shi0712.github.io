@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions](https://arxiv.org/abs/2602.20213)
 
-**Jingwei Shi***, **Xinxiang Yin***, **Jing Huang***, Jinman Zhao, Shengyu Tao
+<span style="text-decoration: underline;">Jingwei Shi*, <span style="font-weight: bold;">Xinxiang Yin</span>*, Jing Huang*</span>, Jinman Zhao, Shengyu Tao
 
 [**Paper**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
 </div>
@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Beyond Student: An Asymmetric Network for Neural Network Inheritance](https://arxiv.org/abs/2602.09509)
 
-**Yiyun Zhou***, **Jingwei Shi***, **Mingjing Xu***, Zhonghua Jiang, Jingyuan Chen
+<span style="text-decoration: underline;">Yiyun Zhou*, Jingwei Shi*, Mingjing Xu*</span>, Zhonghua Jiang, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
 </div>
@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [PresentAgent: Multimodal Agent for Presentation Video Generation](https://arxiv.org/abs/2507.04036)
 
-**Jingwei Shi***, **Zeyu Zhang***, **Biao Wu***, **Yanjie Liang***, Meng Fang, Ling Chen, Yang Zhao
+<span style="text-decoration: underline;">Jingwei Shi*, Zeyu Zhang*, Biao Wu*, Yanjie Liang*</span>, Meng Fang, Ling Chen, Yang Zhao
 
 [**Paper**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
 </div>
@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512)
 
-**Yiyun Zhou***, **Mingjing Xu***, **Jingwei Shi***, Quanjiang Li, Jingyuan Chen
+<span style="text-decoration: underline;">Yiyun Zhou*, Mingjing Xu*, Jingwei Shi*</span>, Quanjiang Li, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
 </div>
@@ -78,7 +78,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents](https://arxiv.org/abs/2503.23948)
 
-**Jiaxiang Chen**, Jingwei Shi, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zhang, Xin Pang, Zhucong Li, Yinghui Xu
+Jiaxiang Chen, **Jingwei Shi**, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zhang, Xin Pang, Zhucong Li, Yinghui Xu
 
 [**Paper**](https://arxiv.org/abs/2503.23948) <strong><span class='show_paper_citations' data='2503.23948'></span></strong>
 </div>
