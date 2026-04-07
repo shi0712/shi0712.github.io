@@ -29,63 +29,58 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '26 (CCF-A)</div><img src='images/framework.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions](https://arxiv.org/abs/2602.20213)
 
-**Jingwei Shi**, Xinxiang Yin, Jing Huang, Jinman Zhao, Shengyu Tao
+**Jingwei Shi***, **Xinxiang Yin***, **Jing Huang***, Jinman Zhao, Shengyu Tao
 
-[**Project**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
-- The evaluation of Large Language Models (LLMs) for code generation relies heavily on the quality and robustness of test cases.
+[**Paper**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Motivation.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR '26 (CCF-A)</div><img src='images/Method4.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Student: An Asymmetric Network for Neural Network Inheritance](https://arxiv.org/abs/2602.09509)
 
-**Yiyun Zhou**, Jingwei Shi, Mingjing Xu, Zhonghua Jiang, Jingyuan Chen
+**Yiyun Zhou***, **Jingwei Shi***, **Mingjing Xu***, Zhonghua Jiang, Jingyuan Chen
 
-[**Project**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
-- Knowledge Distillation (KD) has emerged as a powerful technique for model compression, enabling lightweight student networks to benefit from the performance of redundant teacher networks.
+[**Paper**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Demo</div><img src='images/easy_workflow.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP '25 Demo</div><img src='images/overview.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PresentAgent: Multimodal Agent for Presentation Video Generation](https://arxiv.org/abs/2507.04036)
 
-**Jingwei Shi**, Zeyu Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
+**Jingwei Shi***, **Zeyu Zhang***, **Biao Wu***, **Yanjie Liang***, Meng Fang, Ling Chen, Yang Zhao
 
-[**Project**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
-- We present PresentAgent, a multimodal agent that transforms long-form documents into narrated presentation videos.
+[**Paper**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/Method.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI '26 (CCF-A)</div><img src='images/Method.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512)
 
-**Yiyun Zhou**, Mingjing Xu, Jingwei Shi, Quanjiang Li, Jingyuan Chen
+**Yiyun Zhou***, **Mingjing Xu***, **Jingwei Shi***, Quanjiang Li, Jingyuan Chen
 
-[**Project**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
-- Tactile sensing offers rich and complementary information to vision and language, enabling robots to perceive fine-grained object properties.
+[**Paper**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Demo</div><img src='images/paper2_image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '25 Demo</div><img src='images/comparison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents](https://arxiv.org/abs/2503.23948)
 
 **Jiaxiang Chen**, Jingwei Shi, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zhang, Xin Pang, Zhucong Li, Yinghui Xu
 
-[**Project**](https://arxiv.org/abs/2503.23948) <strong><span class='show_paper_citations' data='2503.23948'></span></strong>
-- As AI technology advances, it is driving innovation across industries, increasing the demand for scalable AI project deployment.
+[**Paper**](https://arxiv.org/abs/2503.23948) <strong><span class='show_paper_citations' data='2503.23948'></span></strong>
 </div>
 </div>
 
