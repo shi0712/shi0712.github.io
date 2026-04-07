@@ -1,0 +1,98 @@
+\begin{thebibliography}{19}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{AutoDevops(2019)}]{AutoDevops}
+AutoDevops. 2019.
+\newblock Autodevops.
+\newblock \url{https://docs.gitlab.com/topics/autodevops/}.
+
+\bibitem[{Bass et~al.(2015)Bass, Weber, and Zhu}]{bass2015devops}
+Len Bass, Ingo Weber, and Liming Zhu. 2015.
+\newblock \emph{DevOps: A software architect's perspective}.
+\newblock Addison-Wesley Professional.
+
+\bibitem[{Battina(2019)}]{battina2019intelligentdevops}
+Dhaya~Sindhu Battina. 2019.
+\newblock An intelligent devops platform research and design based on machine learning.
+\newblock \emph{training}, 6(3).
+
+\bibitem[{Bou~Ghantous(2024)}]{bou2024enhancingdevops}
+G~Bou~Ghantous. 2024.
+\newblock Enhancing devops using ai.
+\newblock In \emph{CEUR Workshop Proceedings}.
+
+\bibitem[{Brooks et~al.(2023)Brooks, Holynski, and Efros}]{instructpix2pix}
+Tim Brooks, Aleksander Holynski, and Alexei~A Efros. 2023.
+\newblock Instructpix2pix: Learning to follow image editing instructions.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 18392--18402.
+
+\bibitem[{Ebert et~al.(2016)Ebert, Gallardo, Hernantes, and Serrano}]{ebert2016devops}
+Christof Ebert, Gorka Gallardo, Josune Hernantes, and Nicolas Serrano. 2016.
+\newblock Devops.
+\newblock \emph{IEEE software}, 33(3):94--100.
+
+\bibitem[{Edge et~al.(2024)Edge, Trinh, Cheng, Bradley, Chao, Mody, Truitt, Metropolitansky, Ness, and Larson}]{graphrag}
+Darren Edge, Ha~Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, Robert~Osazuwa Ness, and Jonathan Larson. 2024.
+\newblock From local to global: A graph rag approach to query-focused summarization.
+\newblock \emph{arXiv preprint arXiv:2404.16130}.
+
+\bibitem[{Enemosah(2025)}]{enemosah2025enhancingdevops}
+Aliyu Enemosah. 2025.
+\newblock Enhancing devops efficiency through ai-driven predictive models for continuous integration and deployment pipelines.
+\newblock \emph{International Journal of Research Publication and Reviews}, 6(1):871--887.
+
+\bibitem[{Guo et~al.(2024)Guo, Xia, Yu, Ao, and Huang}]{lightrag}
+Zirui Guo, Lianghao Xia, Yanhua Yu, Tu~Ao, and Chao Huang. 2024.
+\newblock Lightrag: Simple and fast retrieval-augmented generation.
+
+\bibitem[{Hong et~al.(2023)Hong, Zheng, Chen, Cheng, Wang, Zhang, Wang, Yau, Lin, Zhou et~al.}]{metagpt}
+Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka~Shing Yau, Zijuan Lin, Liyang Zhou, et~al. 2023.
+\newblock Metagpt: Meta programming for multi-agent collaborative framework.
+\newblock \emph{arXiv preprint arXiv:2308.00352}, 3(4):6.
+
+\bibitem[{infiniflow(2024)}]{ragflow}
+infiniflow. 2024.
+\newblock ragflow.
+\newblock \url{https://github.com/infiniflow/ragflow}.
+
+\bibitem[{Karamitsos et~al.(2020)Karamitsos, Albarhami, and Apostolopoulos}]{karamitsos2020applyingdevops}
+Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos. 2020.
+\newblock Applying devops practices of continuous automation for machine learning.
+\newblock \emph{Information}, 11(7):363.
+
+\bibitem[{Openai(2023)}]{GPTs}
+Openai. 2023.
+\newblock Explore gpts.
+\newblock \url{https://chat.openai.com/gpts}.
+
+\bibitem[{Pang et~al.(2024)Pang, Li, Chen, Cheng, Xu, and Qi}]{ai2apps}
+Xin Pang, Zhucong Li, Jiaxiang Chen, Yuan Cheng, Yinghui Xu, and Yuan Qi. 2024.
+\newblock Ai2apps: A visual ide for building llm-based ai agent applications.
+\newblock \emph{arXiv preprint arXiv:2404.04902}.
+
+\bibitem[{Ramesh et~al.(2021)Ramesh, Pavlov, Goh, Gray, Voss, Radford, Chen, and Sutskever}]{dall-e}
+Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, and Ilya Sutskever. 2021.
+\newblock Zero-shot text-to-image generation.
+\newblock In \emph{International conference on machine learning}, pages 8821--8831. Pmlr.
+
+\bibitem[{Wang et~al.(2025)Wang, Jiang, Ma, Zhang, Liu, Li, Liang, Zheng, Wang, Feng et~al.}]{sparktts}
+Xinsheng Wang, Mingqi Jiang, Ziyang Ma, Ziyu Zhang, Songxiang Liu, Linqin Li, Zheng Liang, Qixi Zheng, Rui Wang, Xiaoqin Feng, et~al. 2025.
+\newblock Spark-tts: An efficient llm-based text-to-speech model with single-stream decoupled speech tokens.
+\newblock \emph{arXiv preprint arXiv:2503.01710}.
+
+\bibitem[{Wu et~al.(2023)Wu, Bansal, Zhang, Wu, Li, Zhu, Jiang, Zhang, Zhang, Liu et~al.}]{autogen}
+Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li~Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, et~al. 2023.
+\newblock Autogen: Enabling next-gen llm applications via multi-agent conversation.
+\newblock \emph{arXiv preprint arXiv:2308.08155}.
+
+\bibitem[{Yang et~al.(2023)Yang, Yue, and He}]{autogpt}
+Hui Yang, Sifu Yue, and Yunzhong He. 2023.
+\newblock Auto-gpt for online decision making: Benchmarks and additional opinions.
+\newblock \emph{arXiv preprint arXiv:2306.02224}.
+
+\bibitem[{Yao et~al.(2023)Yao, Zhao, Yu, Du, Shafran, Narasimhan, and Cao}]{react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao. 2023.
+\newblock React: Synergizing reasoning and acting in language models.
+\newblock In \emph{International Conference on Learning Representations (ICLR)}.
+
+\end{thebibliography}

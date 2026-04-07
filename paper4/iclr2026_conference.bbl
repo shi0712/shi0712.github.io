@@ -1,0 +1,518 @@
+\begin{thebibliography}{102}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alemi et~al.(2016)Alemi, Fischer, Dillon, and Murphy]{alemi2016deep}
+Alexander~A Alemi, Ian Fischer, Joshua~V Dillon, and Kevin Murphy.
+\newblock Deep variational information bottleneck.
+\newblock \emph{arXiv preprint arXiv:1612.00410}, 2016.
+
+\bibitem[Cai et~al.(2024)Cai, Jiang, Wang, Tang, Kim, and Huang]{cai2024survey}
+Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, and Jiayi Huang.
+\newblock A survey on mixture of experts.
+\newblock \emph{arXiv preprint arXiv:2407.06204}, 2024.
+
+\bibitem[Chen et~al.(2020)Chen, Mei, Wang, Feng, and Chen]{chen2020online}
+Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng, and Chun Chen.
+\newblock Online knowledge distillation with diverse peers.
+\newblock In \emph{AAAI}, 2020.
+
+\bibitem[Chen et~al.(2022)Chen, Mei, Zhang, Wang, Feng, and Chen]{chen2022knowledge}
+Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, and Chun Chen.
+\newblock Knowledge distillation with the reused teacher classifier.
+\newblock In \emph{CVPR}, 2022.
+
+\bibitem[Chen et~al.(2021)Chen, Liu, Zhao, and Jia]{chen2021distilling}
+Pengguang Chen, Shu Liu, Hengshuang Zhao, and Jiaya Jia.
+\newblock Distilling knowledge via knowledge review.
+\newblock In \emph{CVPR}, 2021.
+
+\bibitem[Chu et~al.(2024)Chu, Qiao, Zhang, Xu, Wei, Yang, Sun, Hu, Lin, Zhang, et~al.]{chu2024mobilevlm}
+Xiangxiang Chu, Limeng Qiao, Xinyu Zhang, Shuang Xu, Fei Wei, Yang Yang, Xiaofei Sun, Yiming Hu, Xinyang Lin, Bo~Zhang, et~al.
+\newblock Mobilevlm v2: Faster and stronger baseline for vision language model.
+\newblock \emph{arXiv preprint arXiv:2402.03766}, 2024.
+
+\bibitem[Cobbe et~al.(2021)Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, et~al.]{cobbe2021training}
+Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et~al.
+\newblock Training verifiers to solve math word problems.
+\newblock \emph{arXiv preprint arXiv:2110.14168}, 2021.
+
+\bibitem[Conover et~al.(2023)Conover, Hayes, Mathur, Xie, Wan, Shah, Ghodsi, Wendell, Zaharia, and Xin]{conover2023free}
+Mike Conover, Matt Hayes, Ankit Mathur, Jianwei Xie, Jun Wan, Sam Shah, Ali Ghodsi, Patrick Wendell, Matei Zaharia, and Reynold Xin.
+\newblock Free dolly: Introducing the world’s first truly open instructiontuned llm.
+\newblock 2023.
+
+\bibitem[Dai et~al.(2022)Dai, Hou, Shang, Jiang, Liu, and Fung]{dai2022enabling}
+Wenliang Dai, Lu~Hou, Lifeng Shang, Xin Jiang, Qun Liu, and Pascale Fung.
+\newblock Enabling multimodal generation on clip via vision-language knowledge distillation.
+\newblock \emph{arXiv preprint arXiv:2203.06386}, 2022.
+
+\bibitem[Denton et~al.(2014)Denton, Zaremba, Bruna, LeCun, and Fergus]{denton2014exploiting}
+Emily~L Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, and Rob Fergus.
+\newblock Exploiting linear structure within convolutional networks for efficient evaluation.
+\newblock \emph{Advances in neural information processing systems}, 27, 2014.
+
+\bibitem[Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova]{devlin2019bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In \emph{Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies, volume 1 (long and short papers)}, pp.\  4171--4186, 2019.
+
+\bibitem[Ding et~al.(2023)Ding, Qin, Yang, Wei, Yang, Su, Hu, Chen, Chan, Chen, et~al.]{ding2023parameter}
+Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, et~al.
+\newblock Parameter-efficient fine-tuning of large-scale pre-trained language models.
+\newblock \emph{Nature Machine Intelligence}, 5\penalty0 (3):\penalty0 220--235, 2023.
+
+\bibitem[Eckart \& Young(1936)Eckart and Young]{eckart1936approximation}
+Carl Eckart and Gale Young.
+\newblock The approximation of one matrix by another of lower rank.
+\newblock \emph{Psychometrika}, 1\penalty0 (3):\penalty0 211--218, 1936.
+
+\bibitem[Fedus et~al.(2022)Fedus, Zoph, and Shazeer]{fedus2022switch}
+William Fedus, Barret Zoph, and Noam Shazeer.
+\newblock Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity.
+\newblock \emph{Journal of Machine Learning Research}, 23\penalty0 (120):\penalty0 1--39, 2022.
+
+\bibitem[Gao et~al.(2024)Gao, Chen, Rao, Sun, Liu, Peng, Zhang, Guo, Yang, and Subrahmanian]{gao2024higher}
+Chongyang Gao, Kezhen Chen, Jinmeng Rao, Baochen Sun, Ruibo Liu, Daiyi Peng, Yawen Zhang, Xiaoyuan Guo, Jie Yang, and VS~Subrahmanian.
+\newblock Higher layers need more lora experts.
+\newblock \emph{arXiv preprint arXiv:2402.08562}, 2024.
+
+\bibitem[Golub \& Van~Loan(2013)Golub and Van~Loan]{golub2013matrix}
+Gene~H Golub and Charles~F Van~Loan.
+\newblock \emph{Matrix computations}.
+\newblock JHU press, 2013.
+
+\bibitem[Golub et~al.(1987)Golub, Hoffman, and Stewart]{golub1987generalization}
+Gene~H Golub, Alan Hoffman, and Gilbert~W Stewart.
+\newblock A generalization of the eckart-young-mirsky matrix approximation theorem.
+\newblock \emph{Linear Algebra and its applications}, 88:\penalty0 317--327, 1987.
+
+\bibitem[Gou et~al.(2021)Gou, Yu, Maybank, and Tao]{gou2021knowledge}
+Jianping Gou, Baosheng Yu, Stephen~J Maybank, and Dacheng Tao.
+\newblock Knowledge distillation: A survey.
+\newblock \emph{International Journal of Computer Vision}, 129\penalty0 (6):\penalty0 1789--1819, 2021.
+
+\bibitem[Goyal et~al.(2017)Goyal, Khot, Summers-Stay, Batra, and Parikh]{goyal2017making}
+Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, and Devi Parikh.
+\newblock Making the v in vqa matter: Elevating the role of image understanding in visual question answering.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and pattern recognition}, pp.\  6904--6913, 2017.
+
+\bibitem[Gu \& Tresp(2020)Gu and Tresp]{gu2020search}
+Jindong Gu and Volker Tresp.
+\newblock Search for better students to learn distilled knowledge.
+\newblock \emph{arXiv preprint arXiv:2001.11612}, 2020.
+
+\bibitem[Gu et~al.(2023)Gu, Dong, Wei, and Huang]{gu2023minillm}
+Yuxian Gu, Li~Dong, Furu Wei, and Minlie Huang.
+\newblock Minillm: Knowledge distillation of large language models.
+\newblock \emph{arXiv preprint arXiv:2306.08543}, 2023.
+
+\bibitem[Guo et~al.(2023)Guo, Yan, Li, and Lin]{guo2023class}
+Ziyao Guo, Haonan Yan, Hui Li, and Xiaodong Lin.
+\newblock Class attention transfer based knowledge distillation.
+\newblock In \emph{CVPR}, 2023.
+
+\bibitem[Han et~al.(2024)Han, Gao, Liu, Zhang, and Zhang]{han2024parameter}
+Zeyu Han, Chao Gao, Jinyang Liu, Jeff Zhang, and Sai~Qian Zhang.
+\newblock Parameter-efficient fine-tuning for large models: A comprehensive survey.
+\newblock \emph{arXiv preprint arXiv:2403.14608}, 2024.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and pattern recognition}, pp.\  770--778, 2016.
+
+\bibitem[Hendrycks et~al.(2020)Hendrycks, Burns, Basart, Zou, Mazeika, Song, and Steinhardt]{hendrycks2020measuring}
+Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt.
+\newblock Measuring massive multitask language understanding.
+\newblock \emph{arXiv preprint arXiv:2009.03300}, 2020.
+
+\bibitem[Heo et~al.(2019)Heo, Kim, Yun, Park, Kwak, and Choi]{heo2019comprehensive}
+Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, and Jin~Young Choi.
+\newblock A comprehensive overhaul of feature distillation.
+\newblock In \emph{ICCV}, 2019.
+
+\bibitem[Hinton et~al.(2015)Hinton, Vinyals, and Dean]{hinton2015distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.
+\newblock Distilling the knowledge in a neural network.
+\newblock \emph{arXiv preprint arXiv:1503.02531}, 2015.
+
+\bibitem[Howard et~al.(2019)Howard, Sandler, Chu, Chen, Chen, Tan, Wang, Zhu, Pang, Vasudevan, et~al.]{howard2019searching}
+Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo~Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, et~al.
+\newblock Searching for mobilenetv3.
+\newblock In \emph{Proceedings of the IEEE/CVF international conference on computer vision}, pp.\  1314--1324, 2019.
+
+\bibitem[Hu et~al.(2023)Hu, Li, Liu, Wu, Chen, Wang, and Liu]{hu2023teacher}
+Chengming Hu, Xuan Li, Dan Liu, Haolun Wu, Xi~Chen, Ju~Wang, and Xue Liu.
+\newblock Teacher-student architecture for knowledge distillation: A survey.
+\newblock \emph{arXiv preprint arXiv:2308.04268}, 2023.
+
+\bibitem[Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, Chen, et~al.]{hu2022lora}
+Edward~J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu~Wang, Weizhu Chen, et~al.
+\newblock Lora: Low-rank adaptation of large language models.
+\newblock \emph{ICLR}, 1\penalty0 (2):\penalty0 3, 2022.
+
+\bibitem[Hu et~al.(2024)Hu, Cheng, Liu, Liu, Luan, Wang, and Liu]{hu2024dota}
+Xiaolin Hu, Xiang Cheng, Peiyu Liu, Wei Liu, Jian Luan, Bin Wang, and Yong Liu.
+\newblock Dota: Weight-decomposed tensor adaptation for large language models.
+\newblock \emph{arXiv preprint arXiv:2412.20891}, 2024.
+
+\bibitem[Jaderberg et~al.(2014)Jaderberg, Vedaldi, and Zisserman]{jaderberg2014speeding}
+Max Jaderberg, Andrea Vedaldi, and Andrew Zisserman.
+\newblock Speeding up convolutional neural networks with low rank expansions.
+\newblock \emph{arXiv preprint arXiv:1405.3866}, 2014.
+
+\bibitem[Jiang et~al.(2025{\natexlab{a}})Jiang, Chen, Li, Yin, Zhou, Wang, Lv, and Zhang]{jiang2025acckv}
+Zhonghua Jiang, Kui Chen, Kunxi Li, Keting Yin, Yiyun Zhou, Zhaode Wang, Chengfei Lv, and Shengyu Zhang.
+\newblock Acckv: Towards efficient audio-video llms inference via adaptive-focusing and cross-calibration kv cache optimization.
+\newblock \emph{arXiv preprint arXiv:2511.11106}, 2025{\natexlab{a}}.
+
+\bibitem[Jiang et~al.(2025{\natexlab{b}})Jiang, Li, Zhou, Liu, Wang, Zhang, et~al.]{jiang2025purekv}
+Zhonghua Jiang, Kunxi Li, Yiyun Zhou, Sihao Liu, Zhaode Wang, Shengyu Zhang, et~al.
+\newblock Purekv: Plug-and-play kv cache optimization with spatial-temporal sparse attention for vision-language large models.
+\newblock \emph{arXiv preprint arXiv:2510.25600}, 2025{\natexlab{b}}.
+
+\bibitem[Jiao et~al.(2019)Jiao, Yin, Shang, Jiang, Chen, Li, Wang, and Liu]{jiao2019tinybert}
+Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu.
+\newblock Tinybert: Distilling bert for natural language understanding.
+\newblock \emph{arXiv preprint arXiv:1909.10351}, 2019.
+
+\bibitem[Jin et~al.(2023)Jin, Wang, and Lin]{jin2023multi}
+Ying Jin, Jiaqi Wang, and Dahua Lin.
+\newblock Multi-level logit distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.\  24276--24285, 2023.
+
+\bibitem[Kang et~al.(2023)Kang, Xu, and Ritter]{kang2023distill}
+Junmo Kang, Wei Xu, and Alan Ritter.
+\newblock Distill or annotate? cost-efficient fine-tuning of compact models.
+\newblock \emph{arXiv preprint arXiv:2305.01645}, 2023.
+
+\bibitem[Koch \& Ullman(1987)Koch and Ullman]{koch1987shifts}
+Christof Koch and Shimon Ullman.
+\newblock Shifts in selective visual attention: towards the underlying neural circuitry.
+\newblock In \emph{Matters of intelligence: Conceptual structures in cognitive neuroscience}, pp.\  115--141. Springer, 1987.
+
+\bibitem[Krizhevsky \& Hinton(2009)Krizhevsky and Hinton]{krizhevsky2009learning}
+A.~Krizhevsky and G.~Hinton.
+\newblock Learning multiple layers of features from tiny images.
+\newblock \emph{Master's thesis, Department of Computer Science, University of Toronto}, 2009.
+
+\bibitem[Lebedev et~al.(2014)Lebedev, Ganin, Rakhuba, Oseledets, and Lempitsky]{lebedev2014speeding}
+Vadim Lebedev, Yaroslav Ganin, Maksim Rakhuba, Ivan Oseledets, and Victor Lempitsky.
+\newblock Speeding-up convolutional neural networks using fine-tuned cp-decomposition.
+\newblock \emph{arXiv preprint arXiv:1412.6553}, 2014.
+
+\bibitem[Lei et~al.(2019)Lei, Hu, Li, and Tang]{lei2019stochastic}
+Yunwen Lei, Ting Hu, Guiying Li, and Ke~Tang.
+\newblock Stochastic gradient descent for nonconvex learning without bounded gradient assumptions.
+\newblock \emph{IEEE transactions on neural networks and learning systems}, 31\penalty0 (10):\penalty0 4394--4400, 2019.
+
+\bibitem[Li et~al.(2025)Li, Xiong, Jiang, Zhou, Wang, Lv, and Zhang]{li2025flowmm}
+Kunxi Li, Yufan Xiong, Zhonghua Jiang, Yiyun Zhou, Zhaode Wang, Chengfei Lv, and Shengyu Zhang.
+\newblock Flowmm: Cross-modal information flow guided kv cache merging for efficient multimodal context inference.
+\newblock \emph{arXiv preprint arXiv:2511.05534}, 2025.
+
+\bibitem[Li et~al.()Li, Xu, Luo, Zhong, Li, Zhou, and Hou]{litheory}
+Quanjiang Li, Tianxiang Xu, Tingjin Luo, Yan Zhong, Yang Li, Yiyun Zhou, and Chenping Hou.
+\newblock Theory-driven label-specific representation for incomplete multi-view multi-label learning.
+\newblock In \emph{The Thirty-ninth Annual Conference on Neural Information Processing Systems}.
+
+\bibitem[Li et~al.(2023{\natexlab{a}})Li, Fan, Hu, Feichtenhofer, and He]{li2023scaling}
+Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, and Kaiming He.
+\newblock Scaling language-image pre-training via masking.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.\  23390--23400, 2023{\natexlab{a}}.
+
+\bibitem[Li et~al.(2020)Li, Huang, Chen, Luo, Cai, and Pan]{li2020online}
+Zheng Li, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, and Zhigeng Pan.
+\newblock Online knowledge distillation via multi-branch diversity enhancement.
+\newblock In \emph{ACCV}, 2020.
+
+\bibitem[Li et~al.(2021)Li, Ye, Song, Huang, and Pan]{li2021online}
+Zheng Li, Jingwen Ye, Mingli Song, Ying Huang, and Zhigeng Pan.
+\newblock Online knowledge distillation for efficient pose estimation.
+\newblock In \emph{ICCV}, 2021.
+
+\bibitem[Li et~al.(2023{\natexlab{b}})Li, Li, Yang, Zhao, Song, Luo, Li, and Yang]{li2022curriculum}
+Zheng Li, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, and Jian Yang.
+\newblock Curriculum temperature for knowledge distillation.
+\newblock In \emph{AAAI}, 2023{\natexlab{b}}.
+
+\bibitem[Lim \& Ye(2024)Lim and Ye]{lim2024simple}
+Lek-Heng Lim and Ke~Ye.
+\newblock Simple matrix models for the flag, grassmann, and stiefel manifolds.
+\newblock \emph{arXiv preprint arXiv:2407.13482}, 2024.
+
+\bibitem[Lin et~al.(2022)Lin, Xie, Wang, Yu, Chang, Liang, and Wang]{lin2022knowledge}
+Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, and Gang Wang.
+\newblock Knowledge distillation via the target-aware transformer.
+\newblock In \emph{CVPR}, 2022.
+
+\bibitem[Liu et~al.(2024)Liu, Wu, Zhao, Zhu, Xu, Tian, and Zheng]{liu2024moemeetsllmsparameter}
+Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, and Yefeng Zheng.
+\newblock When moe meets llms: Parameter efficient fine-tuning for multi-task medical applications, 2024.
+\newblock URL \url{https://arxiv.org/abs/2310.18339}.
+
+\bibitem[Liu et~al.(2022)Liu, Cao, Li, Hu, Ding, and Li]{liu2022cross}
+Yufan Liu, Jiajiong Cao, Bing Li, Weiming Hu, Jingting Ding, and Liang Li.
+\newblock Cross-architecture knowledge distillation.
+\newblock In \emph{Proceedings of the Asian conference on computer vision}, pp.\  3396--3411, 2022.
+
+\bibitem[Loshchilov \& Hutter(2017)Loshchilov and Hutter]{loshchilov2017decoupled}
+Ilya Loshchilov and Frank Hutter.
+\newblock Decoupled weight decay regularization.
+\newblock \emph{arXiv preprint arXiv:1711.05101}, 2017.
+
+\bibitem[Lv et~al.(2025)Lv, Chen, Li, Sui, Liu, and Liao]{lv2025grasp}
+Xiangwei Lv, Jingyuan Chen, Mengze Li, Yongduo Sui, Zemin Liu, and Beishui Liao.
+\newblock Grasp the key takeaways from source domain for few shot graph domain adaptation.
+\newblock In \emph{Proceedings of the ACM on Web Conference 2025}, pp.\  2330--2340, 2025.
+
+\bibitem[Mangrulkar et~al.(2022)Mangrulkar, Gugger, Debut, Belkada, Paul, and Bossan]{mangrulkar2022peft}
+Sourab Mangrulkar, Sylvain Gugger, Lysandre Debut, Younes Belkada, Sayak Paul, and Benjamin Bossan.
+\newblock {PEFT}: State-of-the-art parameter-efficient fine-tuning methods.
+\newblock \url{https://github.com/huggingface/peft}, 2022.
+
+\bibitem[Mu \& Lin(2025)Mu and Lin]{mu2025comprehensive}
+Siyuan Mu and Sen Lin.
+\newblock A comprehensive survey of mixture-of-experts: Algorithms, theory, and applications.
+\newblock \emph{arXiv preprint arXiv:2503.07137}, 2025.
+
+\bibitem[Norris(1998)]{norris1998markov}
+James~R Norris.
+\newblock \emph{Markov chains}.
+\newblock Number~2. Cambridge university press, 1998.
+
+\bibitem[Parton \& Engelbrecht(2020)Parton and Engelbrecht]{parton2020mixtures}
+Callum Parton and Andries Engelbrecht.
+\newblock Mixtures of heterogeneous experts.
+\newblock In \emph{Proceedings of the 2020 4th International Conference on Intelligent Systems, Metaheuristics \& Swarm Intelligence}, pp.\  1--7, 2020.
+
+\bibitem[Patel et~al.(2022)Patel, Zhang, and Tian]{patel2022global}
+Vivak Patel, Shushu Zhang, and Bowen Tian.
+\newblock Global convergence and stability of stochastic gradient descent.
+\newblock \emph{Advances in Neural Information Processing Systems}, 35:\penalty0 36014--36025, 2022.
+
+\bibitem[Peng et~al.(2019)Peng, Jin, Liu, Li, Wu, Liu, Zhou, and Zhang]{peng2019correlation}
+Baoyun Peng, Xiao Jin, Jiaheng Liu, Dongsheng Li, Yichao Wu, Yu~Liu, Shunfeng Zhou, and Zhaoning Zhang.
+\newblock Correlation congruence for knowledge distillation.
+\newblock In \emph{ICCV}, 2019.
+
+\bibitem[Pham et~al.(2020)Pham, Nguyen, Phan, and Tran-Dinh]{pham2020proxsarah}
+Nhan~H Pham, Lam~M Nguyen, Dzung~T Phan, and Quoc Tran-Dinh.
+\newblock Proxsarah: An efficient algorithmic framework for stochastic composite nonconvex optimization.
+\newblock \emph{Journal of Machine Learning Research}, 21\penalty0 (110):\penalty0 1--48, 2020.
+
+\bibitem[Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, Clark, et~al.]{radford2021learning}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, et~al.
+\newblock Learning transferable visual models from natural language supervision.
+\newblock In \emph{International conference on machine learning}, pp.\  8748--8763. PmLR, 2021.
+
+\bibitem[Raffel et~al.(2020)Raffel, Shazeer, Roberts, Lee, Narang, Matena, Zhou, Li, and Liu]{raffel2019exploring}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter~J Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text transformer.
+\newblock \emph{JMLR}, 2020.
+
+\bibitem[Russakovsky et~al.(2015)Russakovsky, Deng, Su, Krause, Satheesh, Ma, Huang, Karpathy, Khosla, Bernstein, et~al.]{russakovsky2015imagenet}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et~al.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock \emph{IJCV}, 2015.
+
+\bibitem[Saha et~al.(2023)Saha, Srivastava, and Pilanci]{saha2023matrix}
+Rajarshi Saha, Varun Srivastava, and Mert Pilanci.
+\newblock Matrix compression via randomized low rank and low precision factorization.
+\newblock \emph{Advances in Neural Information Processing Systems}, 36:\penalty0 18828--18872, 2023.
+
+\bibitem[Saha et~al.(2024)Saha, Sagan, Srivastava, Goldsmith, and Pilanci]{saha2024compressing}
+Rajarshi Saha, Naomi Sagan, Varun Srivastava, Andrea Goldsmith, and Mert Pilanci.
+\newblock Compressing large language models using low rank and low precision decomposition.
+\newblock \emph{Advances in Neural Information Processing Systems}, 37:\penalty0 88981--89018, 2024.
+
+\bibitem[Samejima et~al.(2003)Samejima, Doya, and Kawato]{samejima2003inter}
+Kazuyuki Samejima, Kenji Doya, and Mitsuo Kawato.
+\newblock Inter-module credit assignment in modular reinforcement learning.
+\newblock \emph{Neural Networks}, 16\penalty0 (7):\penalty0 985--994, 2003.
+
+\bibitem[Saxe et~al.(2013)Saxe, McClelland, and Ganguli]{saxe2013exact}
+Andrew~M Saxe, James~L McClelland, and Surya Ganguli.
+\newblock Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.
+\newblock \emph{arXiv preprint arXiv:1312.6120}, 2013.
+
+\bibitem[Sharma et~al.(2018)Sharma, Ding, Goodman, and Soricut]{sharma2018conceptual}
+Piyush Sharma, Nan Ding, Sebastian Goodman, and Radu Soricut.
+\newblock Conceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pp.\  2556--2565, 2018.
+
+\bibitem[Sun et~al.(2024)Sun, Ren, Li, Wang, and Cao]{sun2024logit}
+Shangquan Sun, Wenqi Ren, Jingzhi Li, Rui Wang, and Xiaochun Cao.
+\newblock Logit standardization in knowledge distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.\  15731--15740, 2024.
+
+\bibitem[Tai et~al.(2015)Tai, Xiao, Zhang, Wang, et~al.]{tai2015convolutional}
+Cheng Tai, Tong Xiao, Yi~Zhang, Xiaogang Wang, et~al.
+\newblock Convolutional neural networks with low-rank regularization.
+\newblock \emph{arXiv preprint arXiv:1511.06067}, 2015.
+
+\bibitem[Tan \& Le(2019)Tan and Le]{tan2019efficientnet}
+Mingxing Tan and Quoc Le.
+\newblock Efficientnet: Rethinking model scaling for convolutional neural networks.
+\newblock In \emph{International conference on machine learning}, pp.\  6105--6114. PMLR, 2019.
+
+\bibitem[Tian et~al.(2024)Tian, Shi, Guo, Li, and Xu]{tian2024hydralora}
+Chunlin Tian, Zhan Shi, Zhijiang Guo, Li~Li, and Cheng-Zhong Xu.
+\newblock Hydralora: An asymmetric lora architecture for efficient fine-tuning.
+\newblock \emph{Advances in Neural Information Processing Systems}, 37:\penalty0 9565--9584, 2024.
+
+\bibitem[Touvron et~al.(2023)Touvron, Martin, Stone, Albert, Almahairi, Babaei, Bashlykov, Batra, Bhargava, Bhosale, et~al.]{touvron2023llama}
+Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et~al.
+\newblock Llama 2: Open foundation and fine-tuned chat models.
+\newblock \emph{arXiv preprint arXiv:2307.09288}, 2023.
+
+\bibitem[Wang et~al.(2019)Wang, Singh, Michael, Hill, Levy, and Bowman]{wang2018glue}
+Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel~R. Bowman.
+\newblock {GLUE}: A multi-task benchmark and analysis platform for natural language understanding.
+\newblock In \emph{ICLR}, 2019.
+
+\bibitem[Wang et~al.(2026)Wang, Xu, Cao, Guo, Liu, Zhang, and Zhang]{wang2026unified}
+Wang Wang, Mingjing Xu, Zhen Cao, Jingzi Guo, Chong Liu, Haowei Zhang, and Xiaoling Zhang.
+\newblock Unified data synthesis for automated 3d visual inspection and digital twinning of bridges.
+\newblock \emph{Automation in Construction}, 182:\penalty0 106741, 2026.
+
+\bibitem[Wang et~al.(2024)Wang, Chen, Luo, Long, Lin, Zhang, Lin, Cai, and He]{wang2024model}
+Wenxiao Wang, Wei Chen, Yicong Luo, Yongliu Long, Zhengkai Lin, Liye Zhang, Binbin Lin, Deng Cai, and Xiaofei He.
+\newblock Model compression and efficient inference for large language models: A survey.
+\newblock \emph{arXiv preprint arXiv:2402.09748}, 2024.
+
+\bibitem[Wei et~al.(2022)Wei, Cao, Zhang, Yao, Xie, Hu, and Guo]{wei2022icar}
+Yixuan Wei, Yue Cao, Zheng Zhang, Zhuliang Yao, Zhenda Xie, Han Hu, and Baining Guo.
+\newblock icar: Bridging image classification and image-text alignment for visual recognition.
+\newblock \emph{arXiv preprint arXiv:2204.10760}, 2022.
+
+\bibitem[Wolf et~al.(2020)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac, Rault, Louf, Funtowicz, Davison, Shleifer, von Platen, Ma, Jernite, Plu, Xu, Scao, Gugger, Drame, Lhoest, and Rush]{wolf-etal2020transformers}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven~Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, and Alexander~M. Rush.
+\newblock Transformers: State-of-the-art natural language processing.
+\newblock In \emph{EMNLP: System Demonstrations}, 2020.
+
+\bibitem[Xu et~al.(2023)Xu, Xie, Qin, Tao, and Wang]{xu2023parameter}
+Lingling Xu, Haoran Xie, Si-Zhao~Joe Qin, Xiaohui Tao, and Fu~Lee Wang.
+\newblock Parameter-efficient fine-tuning methods for pretrained language models: A critical review and assessment.
+\newblock \emph{arXiv preprint arXiv:2312.12148}, 2023.
+
+\bibitem[Xu et~al.(2024{\natexlab{a}})Xu, Ju, Liu, and Yang]{xu2024psmgd}
+Mingjing Xu, Peizhong Ju, Jia Liu, and Haibo Yang.
+\newblock Psmgd: Periodic stochastic multi-gradient descent for fast multi-objective optimization.
+\newblock \emph{arXiv preprint arXiv:2412.10961}, 2024{\natexlab{a}}.
+
+\bibitem[Xu et~al.(2024{\natexlab{b}})Xu, Li, Tao, Shen, Cheng, Li, Xu, Tao, and Zhou]{xu2024survey}
+Xiaohan Xu, Ming Li, Chongyang Tao, Tao Shen, Reynold Cheng, Jinyang Li, Can Xu, Dacheng Tao, and Tianyi Zhou.
+\newblock A survey on knowledge distillation of large language models.
+\newblock \emph{arXiv preprint arXiv:2402.13116}, 2024{\natexlab{b}}.
+
+\bibitem[Xu et~al.(2019)Xu, Li, Zhang, Wen, Wang, Dai, Qi, Chen, Lin, and Xiong]{xu2019trained}
+Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, Botao Wang, Wenrui Dai, Yingyong Qi, Yiran Chen, Weiyao Lin, and Hongkai Xiong.
+\newblock Trained rank pruning for efficient deep neural networks.
+\newblock In \emph{2019 Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing-NeurIPS Edition (EMC2-NIPS)}, pp.\  14--17. IEEE, 2019.
+
+\bibitem[Yang et~al.(2024)Yang, An, Huang, Bi, Yu, Yang, Diao, and Xu]{yang2024clip}
+Chuanguang Yang, Zhulin An, Libo Huang, Junyu Bi, Xinqiang Yu, Han Yang, Boyu Diao, and Yongjun Xu.
+\newblock Clip-kd: An empirical study of clip model distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp.\  15952--15962, 2024.
+
+\bibitem[Yang et~al.(2020)Yang, Tang, Wen, Yan, Hu, Li, Li, and Chen]{yang2020learning}
+Huanrui Yang, Minxue Tang, Wei Wen, Feng Yan, Daniel Hu, Ang Li, Hai Li, and Yiran Chen.
+\newblock Learning low-rank deep neural networks via singular vector orthogonality regularization and singular value sparsification.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops}, pp.\  678--679, 2020.
+
+\bibitem[Ye et~al.(2024)Ye, Zheng, Cao, Ma, and Zhang]{ye2024spurious}
+Wenqian Ye, Guangtao Zheng, Xu~Cao, Yunsheng Ma, and Aidong Zhang.
+\newblock Spurious correlations in machine learning: A survey.
+\newblock \emph{arXiv preprint arXiv:2402.12715}, 2024.
+
+\bibitem[Yim et~al.(2017)Yim, Joo, Bae, and Kim]{yim2017gift}
+Junho Yim, Donggyu Joo, Jihoon Bae, and Junmo Kim.
+\newblock A gift from knowledge distillation: Fast optimization, network minimization and transfer learning.
+\newblock In \emph{CVPR}, 2017.
+
+\bibitem[Yu et~al.(2023)Yu, Jiang, Shi, Yu, Liu, Zhang, Kwok, Li, Weller, and Liu]{yu2023metamath}
+Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu~Zhang, James~T Kwok, Zhenguo Li, Adrian Weller, and Weiyang Liu.
+\newblock Metamath: Bootstrap your own mathematical questions for large language models.
+\newblock \emph{arXiv preprint arXiv:2309.12284}, 2023.
+
+\bibitem[Zhang et~al.(2025)Zhang, Zhang, Chu, Wu, Li, and Wei]{zhang2025more}
+Dacao Zhang, Kun Zhang, Shimao Chu, Le~Wu, Xin Li, and Si~Wei.
+\newblock More: A mixture of low-rank experts for adaptive multi-task learning.
+\newblock \emph{arXiv preprint arXiv:2505.22694}, 2025.
+
+\bibitem[Zhang et~al.(2019)Zhang, Song, Gao, Chen, Bao, and Ma]{zhang2019your}
+Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, and Kaisheng Ma.
+\newblock Be your own teacher: Improve the performance of convolutional neural networks via self distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF international conference on computer vision}, pp.\  3713--3722, 2019.
+
+\bibitem[Zhang et~al.(2023{\natexlab{a}})Zhang, Shen, Liu, Liu, Bendersky, Najork, and Zhang]{zhang2023blindly}
+Rongzhi Zhang, Jiaming Shen, Tianqi Liu, Jialu Liu, Michael Bendersky, Marc Najork, and Chao Zhang.
+\newblock Do not blindly imitate the teacher: Using perturbed loss for knowledge distillation.
+\newblock \emph{arXiv preprint arXiv:2305.05010}, 2023{\natexlab{a}}.
+
+\bibitem[Zhang et~al.(2023{\natexlab{b}})Zhang, Dong, Li, Zhang, Sun, Wang, Li, Hu, Zhang, Wu, et~al.]{zhang2023instruction}
+Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, et~al.
+\newblock Instruction tuning for large language models: A survey.
+\newblock \emph{arXiv preprint arXiv:2308.10792}, 2023{\natexlab{b}}.
+
+\bibitem[Zhang et~al.(2015)Zhang, Zou, He, and Sun]{zhang2015accelerating}
+Xiangyu Zhang, Jianhua Zou, Kaiming He, and Jian Sun.
+\newblock Accelerating very deep convolutional networks for classification and detection.
+\newblock \emph{IEEE transactions on pattern analysis and machine intelligence}, 38\penalty0 (10):\penalty0 1943--1955, 2015.
+
+\bibitem[Zhao et~al.(2022)Zhao, Cui, Song, Qiu, and Liang]{zhao2022decoupled}
+Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, and Jiajun Liang.
+\newblock Decoupled knowledge distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on computer vision and pattern recognition}, pp.\  11953--11962, 2022.
+
+\bibitem[Zhong et~al.(2024)Zhong, Ding, Shen, Liu, Du, and Tao]{zhong2024revisiting}
+Qihuang Zhong, Liang Ding, Li~Shen, Juhua Liu, Bo~Du, and Dacheng Tao.
+\newblock Revisiting knowledge distillation for autoregressive language models.
+\newblock \emph{arXiv preprint arXiv:2402.11890}, 2024.
+
+\bibitem[Zhou et~al.(2025{\natexlab{a}})Zhou, Zhang, Zhao, Sui, and Yuan]{zhou2025multimodal}
+Baohang Zhou, Ying Zhang, Yu~Zhao, Xuhui Sui, and Xiaojie Yuan.
+\newblock Multimodal graph-based variational mixture of experts network for zero-shot multimodal information extraction.
+\newblock In \emph{Proceedings of the ACM on Web Conference 2025}, pp.\  4823--4831, 2025{\natexlab{a}}.
+
+\bibitem[Zhou et~al.(2018)Zhou, Fan, Cui, Bian, Zhu, and Gai]{zhou2018rocket}
+Guorui Zhou, Ying Fan, Runpeng Cui, Weijie Bian, Xiaoqiang Zhu, and Kun Gai.
+\newblock Rocket launching: A universal and efficient framework for training well-performing light net, 2018.
+\newblock URL \url{https://arxiv.org/abs/1708.04106}.
+
+\bibitem[Zhou et~al.(2022)Zhou, Lei, Liu, Du, Huang, Zhao, Dai, Le, Laudon, et~al.]{zhou2022mixture}
+Yanqi Zhou, Tao Lei, Hanxiao Liu, Nan Du, Yanping Huang, Vincent Zhao, Andrew~M Dai, Quoc~V Le, James Laudon, et~al.
+\newblock Mixture-of-experts with expert choice routing.
+\newblock \emph{Advances in Neural Information Processing Systems}, 35:\penalty0 7103--7114, 2022.
+
+\bibitem[Zhou et~al.(2025{\natexlab{b}})Zhou, Han, and Chen]{zhou2025revisiting}
+Yiyun Zhou, Wenkang Han, and Jingyuan Chen.
+\newblock Revisiting applicable and comprehensive knowledge tracing in large-scale data.
+\newblock In \emph{Joint European Conference on Machine Learning and Knowledge Discovery in Databases}, pp.\  235--251. Springer, 2025{\natexlab{b}}.
+
+\bibitem[Zhou et~al.(2025{\natexlab{c}})Zhou, Lv, Zhang, and Chen]{zhou2025cuff}
+Yiyun Zhou, Zheqi Lv, Shengyu Zhang, and Jingyuan Chen.
+\newblock Cuff-kt: Tackling learners' real-time learning pattern adjustment via tuning-free knowledge state guided model updating.
+\newblock In \emph{Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2}, pp.\  4144--4155, 2025{\natexlab{c}}.
+
+\bibitem[Zhou et~al.(2025{\natexlab{d}})Zhou, Lv, Zhang, and Chen]{zhou2025disentangled}
+Yiyun Zhou, Zheqi Lv, Shengyu Zhang, and Jingyuan Chen.
+\newblock Disentangled knowledge tracing for alleviating cognitive bias.
+\newblock In \emph{Proceedings of the ACM on Web Conference 2025}, pp.\  2633--2645, 2025{\natexlab{d}}.
+
+\bibitem[Zhou et~al.(2025{\natexlab{e}})Zhou, Xu, Shi, Li, and Chen]{zhou2025collaborative}
+Yiyun Zhou, Mingjing Xu, Jingwei Shi, Quanjiang Li, and Jingyuan Chen.
+\newblock Collaborative representation learning for alignment of tactile, language, and vision modalities.
+\newblock \emph{arXiv preprint arXiv:2511.11512}, 2025{\natexlab{e}}.
+
+\bibitem[Zhou et~al.(2025{\natexlab{f}})Zhou, Yao, and Chen]{zhou2025cola}
+Yiyun Zhou, Chang Yao, and Jingyuan Chen.
+\newblock Cola: Collaborative low-rank adaptation.
+\newblock \emph{arXiv preprint arXiv:2505.15471}, 2025{\natexlab{f}}.
+
+\end{thebibliography}

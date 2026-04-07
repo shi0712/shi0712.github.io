@@ -1,0 +1,122 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+%\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{multirow}
+% Change "review" to "final" to generate the final (sometimes called camera-ready) version.
+% Change to "preprint" to generate a non-anonymous version with page numbers.
+\usepackage[]{acl}
+\usepackage{placeins}  % 防止表格漂移
+\usepackage{array}  % 让表格列宽自定义
+\usepackage{caption}
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{comment}
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% 允许中文支持（必须）
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+%\usepackage{CJKutf8} % 添加这个包支持中文
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+% This is also not strictly necessary, and may be commented out.
+% However, it will improve the aesthetics of text in
+% the typewriter font.
+\usepackage{inconsolata}
+
+%Including images in your LaTeX document requires adding
+%additional package(s)
+\usepackage{graphicx}
+
+% If the title and author information does not fit in the area allocated, uncomment the following
+%
+%\setlength\titlebox{<dim>}
+%
+% and set <dim> to something 5cm or larger.
+
+%\title{AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents}
+\title{%
+  \begin{tabular}{@{}l@{}}
+    \raisebox{-0.2\height}{\includegraphics[height=1.8em]{imgs/logo.png}} AI2Agent: An End-to-End Framework \\[1mm]
+    for Deploying AI Projects as Autonomous Agents
+  \end{tabular}%
+}
+\author{
+    \textbf{Jiaxiang Chen}\textsuperscript{1,2}, 
+    \textbf{Jingwei Shi}\textsuperscript{1}, 
+    \textbf{Lei Gan}\textsuperscript{1}, 
+    \textbf{Jiale Zhang}\textsuperscript{1}, 
+    \textbf{Qingyu Zhang}\textsuperscript{1}, \\
+    \textbf{Dongqian Zhang}\textsuperscript{1}, 
+    \textbf{Xin Pang}\textsuperscript{1*}, 
+    \textbf{Zhucong Li}\textsuperscript{1,2*}, 
+    \textbf{Yinghui Xu}\textsuperscript{2}
+    \\
+    $^1$ Continue-AI \\
+    $^2$ Artificial Intelligence Innovation and Incubation Institute, \\
+    Fudan University, Shanghai, China \\
+    pxavdpro@gmail.com, 
+    \{jiaxiangchen23,zcli22\}@m.fudan.edu.cn\\
+    \{xuyinghui\}@fudan.edu.cn
+}
+
+
+\begin{document}
+\maketitle
+{
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnotetext[1]{Corresponding author.}
+}
+\begin{abstract}
+%Traditional DevOps workflows require crafting YAML configurations, executing CI/CD pipelines, and manually resolving errors—an inefficient and error-prone process. AutoDevOps enhances automation by generating semi-automated YAML but still depends on CI/CD pipelines and manual debugging, limiting its adaptability to complex environments.
+As AI technology advances, it is driving innovation across industries, increasing the demand for scalable AI project deployment. However, deployment remains a critical challenge due to complex environment configurations, dependency conflicts, cross-platform adaptation, and debugging difficulties, which hinder automation and adoption.
+This paper introduces AI2Agent, an end-to-end framework that automates AI project deployment through guideline-driven execution, self-adaptive debugging, and case \& solution accumulation. AI2Agent dynamically analyzes deployment challenges, learns from past cases, and iteratively refines its approach, significantly reducing human intervention.
+To evaluate its effectiveness, we conducted experiments on 30 AI deployment cases, covering TTS, text-to-image generation, image editing, and other AI applications. Results show that AI2Agent significantly reduces deployment time and improves success rates. The code\footnote{\url{https://github.com/continue-ai-company/AI2Agent}} and demo video\footnote{\url{https://youtu.be/seRTYtwgLrk}} are now publicly accessible.
+
+
+\end{abstract}
+
+
+\input{chapters/intro.tex}
+
+\input{chapters/related.tex}
+
+\input{chapters/methods.tex}
+
+\input{chapters/case.tex}
+
+\input{chapters/conclusion.tex}
+
+
+
+
+\section*{Limitations}
+AI2Agent enhances automation and adaptability in AI deployment, yet there is always room for further refinement. As AI projects grow increasingly complex, we look forward to exploring new ways to make deployments even more seamless and intelligent. We welcome researchers and practitioners to contribute to AI2Agent’s evolution, helping to expand its capabilities and applications.
+
+
+\section*{Ethics Statement}
+(1)This work is the authors’ original research and has not been previously published elsewhere.
+(2)The paper is not under consideration for publication in any other venue.
+The research is conducted with integrity, ensuring truthful and complete reporting of methods, findings, and limitations.
+(3)AI2Agent does not involve the collection of personally identifiable information or sensitive user data. Any case study participants were volunteers who provided informed consent before participation, and all identifiers used in experiments were anonymized.
+(4)AI2Agent is designed to enhance the deployment of AI applications, promoting efficiency while ensuring responsible AI practices.
+(5)Our work does not involve training or fine-tuning large language models (LLMs); it strictly utilizes publicly available APIs permitted for research purposes, ensuring compliance with ethical and legal standards.
+
+\bibliography{references}
+
+\end{document}

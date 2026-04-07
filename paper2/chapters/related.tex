@@ -1,0 +1,16 @@
+\section{Related Work}
+
+\subsection{DevOps Paradigm}
+Automated deployments in industry predominantly follow the DevOps paradigm~\cite{bass2015devops,ebert2016devops}, where execution environments, dependencies, and orchestration rules are defined using static configuration files (e.g., YAML). Developers manually specify dependencies, version constraints, and resource allocations, while CI/CD pipelines automate the build, test, and deployment processes. While this improves reproducibility, adapting to new environments, debugging failures, and handling model updates in AI projects still require significant manual effort.
+
+To enhance automation, AutoDevOps~\cite{AutoDevops} offers predefined templates that simplify configuration and deployment. While effective for standardized workflows, its static nature limits adaptability, making it challenging to handle the complexity and variability of AI deployments. AI projects often require integrating multiple models, dynamically managing resource constraints, and resolving intricate dependency conflicts—tasks that demand greater flexibility. Although some approaches~\cite{battina2019intelligentdevops,karamitsos2020applyingdevops,bou2024enhancingdevops,enemosah2025enhancingdevops} incorporate machine learning or LLM to improve automation, they still lack the autonomy and intelligence needed to independently adapt to evolving deployment requirements.
+
+As shown in Figure \ref{fig:cmp_diagm}, AI2Agent addresses these challenges through three key components: Guideline-driven Execution, Self-adaptive Debug, and Case \& Solution Accumulation. By following structured deployment guidelines, autonomously identifying and fixing errors, and continuously refining deployment strategies based on past cases, AI2Agent significantly reduces manual intervention. This enables more flexible, efficient, and scalable AI deployments across diverse environments.
+
+\subsection{LLM-Based Agents}
+
+Large Language Models (LLMs)~\cite{GPTs} excel in reasoning and decision-making but struggle with executing actions and using external tools. AI agents address this by integrating LLMs with structured tool use, enhancing automation and adaptability.
+
+ReAct~\cite{react} enables agents to iteratively reason, act, and observe but lacks mechanisms to draw on past experiences, thus limiting long-term planning. AutoGPT~\cite{autogpt} improves autonomy through multi-step planning yet struggles with execution reliability in real-world scenarios. MetaGPT~\cite{metagpt} enhances multi-agent collaboration but remains constrained by workflow adaptability. AutoGen~\cite{autogen} introduces agent collaboration but faces issues with scalability and consistency.
+
+Existing approaches either focus on reasoning without leveraging past experiences or improve execution with tools but lack adaptive workflow management. AI2Agent addresses this gap by integrating experience-driven learning, structured tool use, and dynamic workflow orchestration, ensuring efficient and adaptable AI deployment.

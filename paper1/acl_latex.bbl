@@ -1,0 +1,276 @@
+\begin{thebibliography}{54}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Achiam et~al.(2023)Achiam, Adler, Agarwal, Ahmad, Akkaya, Aleman, Almeida, Altenschmidt, Altman, Anadkat et~al.}]{achiam2023gpt}
+Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia~Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, and 1 others. 2023.
+\newblock Gpt-4 technical report.
+\newblock \emph{arXiv preprint arXiv:2303.08774}.
+
+\bibitem[{Anthropic(2024)}]{claude3}
+Anthropic. 2024.
+\newblock Claude 3 technical overview.
+\newblock \url{https://www.anthropic.com/news/claude-3}.
+\newblock Accessed: 2025-06-30.
+
+\bibitem[{Bai et~al.(2025)Bai, Chen, Liu, Wang, Ge, Song, Dang, Wang, Wang, Tang et~al.}]{bai2025qwen2}
+Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, and 1 others. 2025.
+\newblock Qwen2. 5-vl technical report.
+\newblock \emph{arXiv preprint arXiv:2502.13923}.
+
+\bibitem[{Beltagy et~al.(2020)Beltagy, Peters, and Cohan}]{beltagy2020longformer}
+Iz~Beltagy, Matthew~E Peters, and Arman Cohan. 2020.
+\newblock Longformer: The long-document transformer.
+\newblock \emph{arXiv preprint arXiv:2004.05150}.
+
+\bibitem[{Chen and Yang(2021)}]{chen2021structure}
+Jiaao Chen and Diyi Yang. 2021.
+\newblock Structure-aware abstractive conversation summarization via discourse and action graphs.
+\newblock \emph{arXiv preprint arXiv:2104.08400}.
+
+\bibitem[{DeepMind(2024)}]{gemini2.5flash}
+Google DeepMind. 2024.
+\newblock Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities.
+\newblock \url{https://deepmind.google/technologies/gemini/}.
+\newblock Accessed: 2025-06-30.
+
+\bibitem[{Deng et~al.(2025)Deng, Zhu, Li, Gou, Li, Wang, Zhong, Yu, Nie, Song et~al.}]{deng2025emerging}
+Chaorui Deng, Deyao Zhu, Kunchang Li, Chenhui Gou, Feng Li, Zeyu Wang, Shu Zhong, Weihao Yu, Xiaonan Nie, Ziang Song, and 1 others. 2025.
+\newblock Emerging properties in unified multimodal pretraining.
+\newblock \emph{arXiv preprint arXiv:2505.14683}.
+
+\bibitem[{Fu et~al.(2022)Fu, Wang, McDuff, and Song}]{fu2022doc2ppt}
+Tsu-Jui Fu, William~Yang Wang, Daniel McDuff, and Yale Song. 2022.
+\newblock Doc2ppt: Automatic presentation slides generation from scientific documents.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, volume~36, pages 634--642.
+
+\bibitem[{Ge et~al.(2025)Ge, Wang, Zhou, Peng, Subramanian, Tan, Sap, Suhr, Fried, Neubig, and Darrell}]{autopresent}
+Jiaxin Ge, Zora~Zhiruo Wang, Xuhui Zhou, Yi-Hao Peng, Sanjay Subramanian, Qinyue Tan, Maarten Sap, Alane Suhr, Daniel Fried, Graham Neubig, and Trevor Darrell. 2025.
+\newblock \href {https://arxiv.org/abs/2501.00912} {Autopresent: Designing structured visuals from scratch}.
+\newblock \emph{arXiv preprint arXiv:2501.00912}.
+
+\bibitem[{He et~al.(2023)He, Xia, Chen, Cun, Gong, Xing, Zhang, Wang, Weng, Shan et~al.}]{he2023animate}
+Yingqing He, Menghan Xia, Haoxin Chen, Xiaodong Cun, Yuan Gong, Jinbo Xing, Yong Zhang, Xintao Wang, Chao Weng, Ying Shan, and 1 others. 2023.
+\newblock Animate-a-story: Storytelling with retrieval-augmented video generation.
+\newblock \emph{arXiv preprint arXiv:2307.06940}.
+
+\bibitem[{Khachatryan et~al.(2023)Khachatryan, Movsisyan, Tadevosyan, Henschel, Wang, Navasardyan, and Shi}]{khachatryan2023text2video}
+Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, Roberto Henschel, Zhangyang Wang, Shant Navasardyan, and Humphrey Shi. 2023.
+\newblock Text2video-zero: Text-to-image diffusion models are zero-shot video generators.
+\newblock In \emph{Proceedings of the IEEE/CVF International Conference on Computer Vision}, pages 15954--15964.
+
+\bibitem[{Lewis et~al.(2019)Lewis, Liu, Goyal, Ghazvininejad, Mohamed, Levy, Stoyanov, and Zettlemoyer}]{lewis2019bart}
+Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, and Luke Zettlemoyer. 2019.
+\newblock Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension.
+\newblock \emph{arXiv preprint arXiv:1910.13461}.
+
+\bibitem[{Li et~al.(2024)Li, Zhang, Guo, Zhang, Li, Zhang, Zhang, Zhang, Li, Liu et~al.}]{li2024llava}
+Bo~Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, and 1 others. 2024.
+\newblock Llava-onevision: Easy visual task transfer.
+\newblock \emph{arXiv preprint arXiv:2408.03326}.
+
+\bibitem[{Li et~al.(2023)Li, Chu, Wu, Yuan, Liu, Zhang, Li, Feng, Ding, and Wang}]{li2023videogen}
+Xin Li, Wenqing Chu, Ye~Wu, Weihang Yuan, Fanglong Liu, Qi~Zhang, Fu~Li, Haocheng Feng, Errui Ding, and Jingdong Wang. 2023.
+\newblock Videogen: A reference-guided latent diffusion approach for high definition text-to-video generation.
+\newblock \emph{arXiv preprint arXiv:2309.00398}.
+
+\bibitem[{Lin et~al.(2024{\natexlab{a}})Lin, Li, Gao, Wu, Yan, Yang, Wang, and Shou}]{videogui}
+Kevin~Qinghong Lin, Linjie Li, Difei Gao, Qinchen Wu, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, and Mike~Zheng Shou. 2024{\natexlab{a}}.
+\newblock Videogui: A benchmark for gui automation from instructional videos.
+\newblock \emph{arXiv preprint arXiv:2406.10227}.
+
+\bibitem[{Lin et~al.(2024{\natexlab{b}})Lin, Li, Gao, Yang, Wu, Bai, Lei, Wang, and Shou}]{showui}
+Kevin~Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, and Mike~Zheng Shou. 2024{\natexlab{b}}.
+\newblock Showui: One vision-language-action model for gui visual agent.
+\newblock \emph{arXiv preprint arXiv:2411.17465}.
+
+\bibitem[{Liu et~al.(2025)Liu, Zhang, Li, Bai, Han, Tang, Xing, Wu, Yang, Chen et~al.}]{liu2025fpsattention}
+Akide Liu, Zeyu Zhang, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, and 1 others. 2025.
+\newblock Fpsattention: Training-aware fp8 and sparsity co-design for fast video diffusion.
+\newblock \emph{arXiv preprint arXiv:2506.04648}.
+
+\bibitem[{Lu et~al.(2025)Lu, Chen, Liu, Thapa, Boen, and Zou}]{octotools}
+Pan Lu, Bowen Chen, Sheng Liu, Rahul Thapa, Joseph Boen, and James Zou. 2025.
+\newblock Octotools: An agentic framework with extensible tools for complex reasoning.
+\newblock \emph{arXiv preprint arXiv:2502.11271}.
+
+\bibitem[{Nayak et~al.(2025)Nayak, Jian, Lin, Rodriguez, Kalsi, Awal, Chapados, Özsu, Agrawal, Vazquez, Pal, Taslakian, Gella, and Rajeswar}]{uivision}
+Shravan Nayak, Xiangru Jian, Kevin~Qinghong Lin, Juan~A. Rodriguez, Montek Kalsi, Rabiul Awal, Nicolas Chapados, M.~Tamer Özsu, Aishwarya Agrawal, David Vazquez, Christopher Pal, Perouz Taslakian, Spandana Gella, and Sai Rajeswar. 2025.
+\newblock Ui-vision: A desktop-centric gui benchmark for visual perception and interaction.
+\newblock \emph{arXiv preprint arXiv:2503.15661}.
+
+\bibitem[{Ni et~al.(2022)Ni, Wang, Gao, Qian, Zhang, Chang, and Hasegawa-Johnson}]{ni2022unsupervised}
+Junrui Ni, Liming Wang, Heting Gao, Kaizhi Qian, Yang Zhang, Shiyu Chang, and Mark Hasegawa-Johnson. 2022.
+\newblock Unsupervised text-to-speech synthesis by unsupervised automatic speech recognition.
+\newblock \emph{arXiv preprint arXiv:2203.15796}.
+
+\bibitem[{Pang et~al.(2025)Pang, Lin, Jian, He, and Torr}]{pang2025paper2poster}
+Wei Pang, Kevin~Qinghong Lin, Xiangru Jian, Xi~He, and Philip Torr. 2025.
+\newblock Paper2poster: Towards multimodal poster automation from scientific papers.
+\newblock \emph{arXiv preprint arXiv:2505.21497}.
+
+\bibitem[{Popov et~al.(2021)Popov, Vovk, Gogoryan, Sadekova, and Kudinov}]{popov2021grad}
+Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, and Mikhail Kudinov. 2021.
+\newblock Grad-tts: A diffusion probabilistic model for text-to-speech.
+\newblock In \emph{International conference on machine learning}, pages 8599--8608. PMLR.
+
+\bibitem[{Qin et~al.(2025)Qin, Ye, Fang, Wang, Liang, Tian, Zhang, Li, Li, Huang et~al.}]{uitars}
+Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Junda Zhang, Jiahao Li, Yunxin Li, Shijue Huang, and 1 others. 2025.
+\newblock Ui-tars: Pioneering automated gui interaction with native agents.
+\newblock \emph{arXiv preprint arXiv:2501.12326}.
+
+\bibitem[{Ren et~al.(2019)Ren, Ruan, Tan, Qin, Zhao, Zhao, and Liu}]{ren2019fastspeech}
+Yi~Ren, Yangjun Ruan, Xu~Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. 2019.
+\newblock Fastspeech: Fast, robust and controllable text to speech.
+\newblock \emph{Advances in neural information processing systems}, 32.
+
+\bibitem[{Schick et~al.(2023)Schick, Dwivedi-Yu, Dessì, and et~al.}]{toolformer}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, and et~al. 2023.
+\newblock Toolformer: Language models can teach themselves to use tools.
+\newblock \emph{arXiv preprint arXiv:2302.04761}.
+
+\bibitem[{Solanki and Khublani(2024)}]{solanki2024script}
+Shivam~R Solanki and Drupad~K Khublani. 2024.
+\newblock From script to screen: Unveiling text-to-video generation.
+\newblock In \emph{Generative Artificial Intelligence: Exploring the Power and Potential of Generative AI}, pages 81--112. Springer.
+
+\bibitem[{Song et~al.(2025{\natexlab{a}})Song, Jiang, Cui, Li, Gao, Zhang, Xu, Wang, Wang, Ouyang et~al.}]{song2025audio}
+Zirui Song, Qian Jiang, Mingxuan Cui, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, Guangxian Ouyang, and 1 others. 2025{\natexlab{a}}.
+\newblock Audio jailbreak: An open comprehensive benchmark for jailbreaking large audio-language models.
+\newblock \emph{arXiv preprint arXiv:2505.15406}.
+
+\bibitem[{Song et~al.(2024)Song, Ouyang, Fang, Na, Shi, Chen, Fu, Zhang, Jiang, Fang et~al.}]{song2024hazards}
+Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, and 1 others. 2024.
+\newblock Hazards in daily life? enabling robots to proactively detect and resolve anomalies.
+\newblock \emph{arXiv preprint arXiv:2411.00781}.
+
+\bibitem[{Song et~al.(2025{\natexlab{b}})Song, Ouyang, Li, Ji, Wang, Xu, Zhang, Zhang, Jiang, Chen et~al.}]{song2025maniplvm}
+Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, and 1 others. 2025{\natexlab{b}}.
+\newblock Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models.
+\newblock \emph{arXiv preprint arXiv:2505.16517}.
+
+\bibitem[{Song et~al.(2025{\natexlab{c}})Song, Yang, Huang, Tonglet, Zhang, Cheng, Fang, Gurevych, and Chen}]{song2025geolocation}
+Zirui Song, Jingpu Yang, Yuan Huang, Jonathan Tonglet, Zeyu Zhang, Tao Cheng, Meng Fang, Iryna Gurevych, and Xiuying Chen. 2025{\natexlab{c}}.
+\newblock Geolocation with real human gameplay data: A large-scale dataset and human-like reasoning framework.
+\newblock \emph{arXiv preprint arXiv:2502.13759}.
+
+\bibitem[{Sun et~al.(2024)Sun, Cheng, Ding, Jin, Wang, Xu, Wu, Jia, Chen, Liu et~al.}]{sun2024genesis}
+Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, and 1 others. 2024.
+\newblock Os-genesis: Automating gui agent trajectory construction via reverse task synthesis.
+\newblock \emph{arXiv preprint arXiv:2412.19723}.
+
+\bibitem[{Tachibana et~al.(2018)Tachibana, Uenoyama, and Aihara}]{tachibana2018efficiently}
+Hideyuki Tachibana, Katsuya Uenoyama, and Shunsuke Aihara. 2018.
+\newblock Efficiently trainable text-to-speech system based on deep convolutional networks with guided attention.
+\newblock In \emph{2018 IEEE international conference on acoustics, speech and signal processing (ICASSP)}, pages 4784--4788. IEEE.
+
+\bibitem[{Wang et~al.(2025)Wang, Wu, Li, Fang, Liang, Huang, Wang, Huang, Chen, Chu et~al.}]{wang2025infinity}
+Baode Wang, Biao Wu, Weizhen Li, Meng Fang, Yanjie Liang, Zuming Huang, Haozhe Wang, Jun Huang, Ling Chen, Wei Chu, and 1 others. 2025.
+\newblock Infinity parser: Layout aware reinforcement learning for scanned document parsing.
+\newblock \emph{arXiv preprint arXiv:2506.03197}.
+
+\bibitem[{Wang et~al.(2024{\natexlab{a}})Wang, Garg, and Wu}]{wang2024segmented}
+Guanghua Wang, Priyanshi Garg, and Weili Wu. 2024{\natexlab{a}}.
+\newblock Segmented summarization and refinement: A pipeline for long-document analysis on social media.
+\newblock \emph{Journal of Social Computing}, 5(2):132--144.
+
+\bibitem[{Wang et~al.(2024{\natexlab{b}})Wang, Bai, Tan, Wang, Fan, Bai, Chen, Liu, Wang, Ge et~al.}]{wang2024qwen2}
+Peng Wang, Shuai Bai, Sinan Tan, Shijie Wang, Zhihao Fan, Jinze Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, and 1 others. 2024{\natexlab{b}}.
+\newblock Qwen2-vl: Enhancing vision-language model's perception of the world at any resolution.
+\newblock \emph{arXiv preprint arXiv:2409.12191}.
+
+\bibitem[{Wang et~al.(2024{\natexlab{c}})Wang, Li, Song, Xu, Tang, Zhuge, Pan, Song, Li, Singh et~al.}]{opendevin}
+Xingyao Wang, Boxuan Li, Yufan Song, Frank~F Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, and 1 others. 2024{\natexlab{c}}.
+\newblock Opendevin: An open platform for ai software developers as generalist agents.
+\newblock \emph{arXiv preprint arXiv:2407.16741}.
+
+\bibitem[{Wu et~al.(2024)Wu, Li, Fang, Song, Zhang, Wei, and Chen}]{wu2024foundations}
+Biao Wu, Yanda Li, Meng Fang, Zirui Song, Zhiwei Zhang, Yunchao Wei, and Ling Chen. 2024.
+\newblock Foundations and recent trends in multimodal mobile agents: A survey.
+\newblock \emph{arXiv preprint arXiv:2411.02006}.
+
+\bibitem[{Xie et~al.(2024)Xie, Mao, Bai, Zhang, Wang, Lin, Gu, Chen, Yang, and Shou}]{xie2024show}
+Jinheng Xie, Weijia Mao, Zechen Bai, David~Junhao Zhang, Weihao Wang, Kevin~Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, and Mike~Zheng Shou. 2024.
+\newblock Show-o: One single transformer to unify multimodal understanding and generation.
+\newblock \emph{arXiv preprint arXiv:2408.12528}.
+
+\bibitem[{Xu et~al.(2025)Xu, Guo, He, Hu, He, Bai, Chen, Wang, Fan, Dang et~al.}]{xu2025qwen2}
+Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai, Keqin Chen, Jialin Wang, Yang Fan, Kai Dang, and 1 others. 2025.
+\newblock Qwen2. 5-omni technical report.
+\newblock \emph{arXiv preprint arXiv:2503.20215}.
+
+\bibitem[{Xue et~al.(2025)Xue, Yin, Yang, and Gao}]{xue2025phyt2v}
+Qiyao Xue, Xiangyu Yin, Boyuan Yang, and Wei Gao. 2025.
+\newblock Phyt2v: Llm-guided iterative self-refinement for physics-grounded text-to-video generation.
+\newblock In \emph{Proceedings of the Computer Vision and Pattern Recognition Conference}, pages 18826--18836.
+
+\bibitem[{Yang et~al.(2024{\natexlab{a}})Yang, Jimenez, Wettig, Lieret, Yao, Narasimhan, and Press}]{sweagent}
+John Yang, Carlos Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, and Ofir Press. 2024{\natexlab{a}}.
+\newblock Swe-agent: Agent-computer interfaces enable automated software engineering.
+\newblock \emph{Advances in Neural Information Processing Systems}, 37:50528--50652.
+
+\bibitem[{Yang et~al.(2024{\natexlab{b}})Yang, Liu, Wu, Yang, Fung, Li, Huang, Cao, Wang, Wang et~al.}]{yang2024if}
+Ke~Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi~R Fung, Sha Li, Zixuan Huang, Xu~Cao, Xingyao Wang, Yiquan Wang, and 1 others. 2024{\natexlab{b}}.
+\newblock If llm is the wizard, then code is the wand: A survey on how code empowers large language models to serve as intelligent agents.
+\newblock \emph{arXiv preprint arXiv:2401.00812}.
+
+\bibitem[{Yang et~al.(2023{\natexlab{a}})Yang, Song, Li, Zhao, Ge, Li, and Shan}]{yang2023gpt4tools}
+Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, and Ying Shan. 2023{\natexlab{a}}.
+\newblock Gpt4tools: Teaching large language model to use tools via self-instruction.
+\newblock \emph{Advances in Neural Information Processing Systems}, 36:71995--72007.
+
+\bibitem[{Yang et~al.(2023{\natexlab{b}})Yang, Li, Wang, Lin, Azarnasab, Ahmed, Liu, Liu, Zeng, and Wang}]{mmreat}
+Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce~Liu, Michael Zeng, and Lijuan Wang. 2023{\natexlab{b}}.
+\newblock Mm-react: Prompting chatgpt for multimodal reasoning and action.
+\newblock \emph{arXiv preprint arXiv:2303.11381}.
+
+\bibitem[{Yang et~al.(2024{\natexlab{c}})Yang, Teng, Zheng, Ding, Huang, Xu, Yang, Hong, Zhang, Feng et~al.}]{yang2024cogvideox}
+Zhuoyi Yang, Jiayan Teng, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, Yuanming Yang, Wenyi Hong, Xiaohan Zhang, Guanyu Feng, and 1 others. 2024{\natexlab{c}}.
+\newblock Cogvideox: Text-to-video diffusion models with an expert transformer.
+\newblock \emph{arXiv preprint arXiv:2408.06072}.
+
+\bibitem[{Yao et~al.(2023)Yao, Zhao, Yu, Du, Shafran, Narasimhan, and Cao}]{react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik~R Narasimhan, and Yuan Cao. 2023.
+\newblock \href {https://openreview.net/forum?id=WE_vluYUL-X} {React: Synergizing reasoning and acting in language models}.
+\newblock In \emph{The Eleventh International Conference on Learning Representations}.
+
+\bibitem[{Yue et~al.(2024)Yue, Yao, Mi, Yu, Yao, and Yu}]{yue2024dots}
+Murong Yue, Wenlin Yao, Haitao Mi, Dian Yu, Ziyu Yao, and Dong Yu. 2024.
+\newblock Dots: Learning to reason dynamically in llms via optimal reasoning trajectories search.
+\newblock \emph{arXiv preprint arXiv:2410.03864}.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{a}})Zhang, Gao, Liu, Chen, Chen, Wang, Li, Zhao, Li, Zhou et~al.}]{zhang2024kmm}
+Zeyu Zhang, Hang Gao, Akide Liu, Qi~Chen, Feng Chen, Yiran Wang, Danning Li, Rui Zhao, Zhenming Li, Zhongwen Zhou, and 1 others. 2024{\natexlab{a}}.
+\newblock Kmm: Key frame mask mamba for extended motion generation.
+\newblock \emph{arXiv preprint arXiv:2411.06481}.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{b}})Zhang, Liu, Chen, Chen, Reid, Hartley, Zhuang, and Tang}]{zhang2024infinimotion}
+Zeyu Zhang, Akide Liu, Qi~Chen, Feng Chen, Ian Reid, Richard Hartley, Bohan Zhuang, and Hao Tang. 2024{\natexlab{b}}.
+\newblock Infinimotion: Mamba boosts memory in transformer for arbitrary long motion generation.
+\newblock \emph{arXiv preprint arXiv:2407.10061}.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{c}})Zhang, Liu, Reid, Hartley, Zhuang, and Tang}]{zhang2024motion}
+Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, and Hao Tang. 2024{\natexlab{c}}.
+\newblock Motion mamba: Efficient and long sequence motion generation.
+\newblock In \emph{European Conference on Computer Vision}, pages 265--282. Springer.
+
+\bibitem[{Zhang et~al.(2025)Zhang, Wang, Mao, Li, Zhao, Wu, Song, Zhuang, Reid, and Hartley}]{zhang2025motion}
+Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, and Richard Hartley. 2025.
+\newblock Motion anything: Any to motion generation.
+\newblock \emph{arXiv preprint arXiv:2503.06955}.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{d}})Zhang, Wang, Wu, Chen, Zhang, Huang, Zhang, Fang, Chen, and Zhao}]{zhang2024motionavatar}
+Zeyu Zhang, Yiran Wang, Biao Wu, Shuo Chen, Zhiyuan Zhang, Shiya Huang, Wenbo Zhang, Meng Fang, Ling Chen, and Yang Zhao. 2024{\natexlab{d}}.
+\newblock Motion avatar: Generate human and animal avatars with arbitrary motion.
+\newblock \emph{arXiv preprint arXiv:2405.11286}.
+
+\bibitem[{Zheng et~al.(2025{\natexlab{a}})Zheng, Guan, Kong, Zheng, Zhou, Lin, Lu, He, Han, and Sun}]{pptagent}
+Hao Zheng, Xinyan Guan, Hao Kong, Jia Zheng, Weixiang Zhou, Hongyu Lin, Yaojie Lu, Ben He, Xianpei Han, and Le~Sun. 2025{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2501.03936} {Pptagent: Generating and evaluating presentations beyond text-to-slides}.
+\newblock \emph{arXiv preprint arXiv:2501.03936}.
+
+\bibitem[{Zheng et~al.(2025{\natexlab{b}})Zheng, Guan, Kong, Zheng, Zhou, Lin, Lu, He, Han, and Sun}]{zheng2025pptagent}
+Hao Zheng, Xinyan Guan, Hao Kong, Jia Zheng, Weixiang Zhou, Hongyu Lin, Yaojie Lu, Ben He, Xianpei Han, and Le~Sun. 2025{\natexlab{b}}.
+\newblock Pptagent: Generating and evaluating presentations beyond text-to-slides.
+\newblock \emph{arXiv preprint arXiv:2501.03936}.
+
+\end{thebibliography}

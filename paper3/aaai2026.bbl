@@ -1,0 +1,506 @@
+\begin{thebibliography}{70}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Alayrac et~al.(2022)Alayrac, Donahue, Luc, Miech, Barr, Hasson, Lenc,
+  Mensch, Millican, Reynolds et~al.}]{alayrac2022flamingo}
+Alayrac, J.-B.; Donahue, J.; Luc, P.; Miech, A.; Barr, I.; Hasson, Y.; Lenc,
+  K.; Mensch, A.; Millican, K.; Reynolds, M.; et~al. 2022.
+\newblock Flamingo: a visual language model for few-shot learning.
+\newblock \emph{Advances in neural information processing systems}, 35:
+  23716--23736.
+
+\bibitem[{Baltru{\v{s}}aitis, Ahuja, and
+  Morency(2018)}]{baltruvsaitis2018multimodal}
+Baltru{\v{s}}aitis, T.; Ahuja, C.; and Morency, L.-P. 2018.
+\newblock Multimodal machine learning: A survey and taxonomy.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 41(2): 423--443.
+
+\bibitem[{Calandra et~al.(2017)Calandra, Owens, Upadhyaya, Yuan, Lin, Adelson,
+  and Levine}]{calandra2017feeling}
+Calandra, R.; Owens, A.; Upadhyaya, M.; Yuan, W.; Lin, J.; Adelson, E.~H.; and
+  Levine, S. 2017.
+\newblock The feeling of success: Does touch sensing help predict grasp
+  outcomes?
+\newblock \emph{arXiv preprint arXiv:1710.05512}.
+
+\bibitem[{Chen et~al.(2020)Chen, Kornblith, Norouzi, and
+  Hinton}]{chen2020simple}
+Chen, T.; Kornblith, S.; Norouzi, M.; and Hinton, G. 2020.
+\newblock A simple framework for contrastive learning of visual
+  representations.
+\newblock In \emph{International conference on machine learning}, 1597--1607.
+  PmLR.
+
+\bibitem[{Cheng et~al.(2025)Cheng, Xu, Guan, Gao, Wang, Li, Meng, Zhou, Fang,
+  and Han}]{cheng2025touch100k}
+Cheng, N.; Xu, J.; Guan, C.; Gao, J.; Wang, W.; Li, Y.; Meng, F.; Zhou, J.;
+  Fang, B.; and Han, W. 2025.
+\newblock Touch100k: A large-scale touch-language-vision dataset for
+  touch-centric multimodal representation.
+\newblock \emph{Information Fusion}, 103305.
+
+\bibitem[{Cherti et~al.(2023)Cherti, Beaumont, Wightman, Wortsman, Ilharco,
+  Gordon, Schuhmann, Schmidt, and Jitsev}]{cherti2023reproducible}
+Cherti, M.; Beaumont, R.; Wightman, R.; Wortsman, M.; Ilharco, G.; Gordon, C.;
+  Schuhmann, C.; Schmidt, L.; and Jitsev, J. 2023.
+\newblock Reproducible scaling laws for contrastive language-image learning.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, 2818--2829.
+
+\bibitem[{Dave, Lygerakis, and Rueckert(2024)}]{dave2024multimodal}
+Dave, V.; Lygerakis, F.; and Rueckert, E. 2024.
+\newblock Multimodal visual-tactile representation learning through
+  self-supervised contrastive pre-training.
+\newblock In \emph{2024 IEEE International Conference on Robotics and
+  Automation (ICRA)}, 8013--8020. IEEE.
+
+\bibitem[{Donlon et~al.(2018)Donlon, Dong, Liu, Li, Adelson, and
+  Rodriguez}]{donlon2018gelslim}
+Donlon, E.; Dong, S.; Liu, M.; Li, J.; Adelson, E.; and Rodriguez, A. 2018.
+\newblock Gelslim: A high-resolution, compact, robust, and calibrated
+  tactile-sensing finger.
+\newblock In \emph{2018 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, 1927--1934. IEEE.
+
+\bibitem[{Dosovitskiy(2020)}]{dosovitskiy2020image}
+Dosovitskiy, A. 2020.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock \emph{arXiv preprint arXiv:2010.11929}.
+
+\bibitem[{Dufumier et~al.(2024)Dufumier, Castillo-Navarro, Tuia, and
+  Thiran}]{dufumier2024align}
+Dufumier, B.; Castillo-Navarro, J.; Tuia, D.; and Thiran, J.-P. 2024.
+\newblock What to align in multimodal contrastive learning?
+\newblock \emph{arXiv preprint arXiv:2409.07402}.
+
+\bibitem[{Feng et~al.(2025)Feng, Hu, Xia, Gao, Shen, Sun, Fang, and
+  Hu}]{feng2025anytouch}
+Feng, R.; Hu, J.; Xia, W.; Gao, T.; Shen, A.; Sun, Y.; Fang, B.; and Hu, D.
+  2025.
+\newblock Anytouch: Learning unified static-dynamic representation across
+  multiple visuo-tactile sensors.
+\newblock \emph{arXiv preprint arXiv:2502.12191}.
+
+\bibitem[{Fu et~al.(2024)Fu, Datta, Huang, Panitch, Drake, Ortiz, Mukadam,
+  Lambeta, Calandra, and Goldberg}]{fu2024tou}
+Fu, L.; Datta, G.; Huang, H.; Panitch, W. C.-H.; Drake, J.; Ortiz, J.; Mukadam,
+  M.; Lambeta, M.; Calandra, R.; and Goldberg, K. 2024.
+\newblock A touch, vision, and language dataset for multimodal alignment.
+\newblock \emph{arXiv preprint arXiv:2402.13232}.
+
+\bibitem[{Gao et~al.(2021)Gao, Chang, Mall, Fei-Fei, and
+  Wu}]{gao2021objectfolder}
+Gao, R.; Chang, Y.-Y.; Mall, S.; Fei-Fei, L.; and Wu, J. 2021.
+\newblock Objectfolder: A dataset of objects with implicit visual, auditory,
+  and tactile representations.
+\newblock \emph{arXiv preprint arXiv:2109.07991}.
+
+\bibitem[{Gao et~al.(2022)Gao, Si, Chang, Clarke, Bohg, Fei-Fei, Yuan, and
+  Wu}]{gao2022objectfolder}
+Gao, R.; Si, Z.; Chang, Y.-Y.; Clarke, S.; Bohg, J.; Fei-Fei, L.; Yuan, W.; and
+  Wu, J. 2022.
+\newblock Objectfolder 2.0: A multisensory object dataset for sim2real
+  transfer.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, 10598--10608.
+
+\bibitem[{Girdhar et~al.(2023)Girdhar, El-Nouby, Liu, Singh, Alwala, Joulin,
+  and Misra}]{girdhar2023imagebind}
+Girdhar, R.; El-Nouby, A.; Liu, Z.; Singh, M.; Alwala, K.~V.; Joulin, A.; and
+  Misra, I. 2023.
+\newblock Imagebind: One embedding space to bind them all.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, 15180--15190.
+
+\bibitem[{Guo et~al.(2023)Guo, Zhang, Zhu, Tang, Ma, Han, Chen, Gao, Li, Li
+  et~al.}]{guo2023point}
+Guo, Z.; Zhang, R.; Zhu, X.; Tang, Y.; Ma, X.; Han, J.; Chen, K.; Gao, P.; Li,
+  X.; Li, H.; et~al. 2023.
+\newblock Point-bind \& point-llm: Aligning point cloud with multi-modality for
+  3d understanding, generation, and instruction following.
+\newblock \emph{arXiv preprint arXiv:2309.00615}.
+
+\bibitem[{Gupta et~al.(2025)Gupta, Mo, Jin, and Yuan}]{gupta2025sensor}
+Gupta, H.; Mo, Y.; Jin, S.; and Yuan, W. 2025.
+\newblock Sensor-invariant tactile representation.
+\newblock \emph{arXiv preprint arXiv:2502.19638}.
+
+\bibitem[{Guzhov et~al.(2022)Guzhov, Raue, Hees, and
+  Dengel}]{guzhov2022audioclip}
+Guzhov, A.; Raue, F.; Hees, J.; and Dengel, A. 2022.
+\newblock Audioclip: Extending clip to image, text and audio.
+\newblock In \emph{ICASSP 2022-2022 IEEE International Conference on Acoustics,
+  Speech and Signal Processing (ICASSP)}, 976--980. IEEE.
+
+\bibitem[{Hao et~al.(2025)Hao, Zhang, Li, Cao, Hao, Cui, and Wang}]{hao2025tla}
+Hao, P.; Zhang, C.; Li, D.; Cao, X.; Hao, X.; Cui, S.; and Wang, S. 2025.
+\newblock Tla: Tactile-language-action model for contact-rich manipulation.
+\newblock \emph{arXiv preprint arXiv:2503.08548}.
+
+\bibitem[{Higuera et~al.(2024)Higuera, Sharma, Bodduluri, Fan, Lancaster,
+  Kalakrishnan, Kaess, Boots, Lambeta, Wu et~al.}]{higuera2024sparsh}
+Higuera, C.; Sharma, A.; Bodduluri, C.~K.; Fan, T.; Lancaster, P.;
+  Kalakrishnan, M.; Kaess, M.; Boots, B.; Lambeta, M.; Wu, T.; et~al. 2024.
+\newblock Sparsh: Self-supervised touch representations for vision-based
+  tactile sensing.
+\newblock \emph{arXiv preprint arXiv:2410.24090}.
+
+\bibitem[{Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, Chen
+  et~al.}]{hu2022lora}
+Hu, E.~J.; Shen, Y.; Wallis, P.; Allen-Zhu, Z.; Li, Y.; Wang, S.; Wang, L.;
+  Chen, W.; et~al. 2022.
+\newblock Lora: Low-rank adaptation of large language models.
+\newblock \emph{ICLR}, 1(2): 3.
+
+\bibitem[{Jia et~al.(2021)Jia, Yang, Xia, Chen, Parekh, Pham, Le, Sung, Li, and
+  Duerig}]{jia2021scaling}
+Jia, C.; Yang, Y.; Xia, Y.; Chen, Y.-T.; Parekh, Z.; Pham, H.; Le, Q.; Sung,
+  Y.-H.; Li, Z.; and Duerig, T. 2021.
+\newblock Scaling up visual and vision-language representation learning with
+  noisy text supervision.
+\newblock In \emph{International conference on machine learning}, 4904--4916.
+  PMLR.
+
+\bibitem[{Jiang et~al.(2025{\natexlab{a}})Jiang, Tang, Jiang, Yu, and
+  Wu}]{jiang2025arnet}
+Jiang, J.; Tang, H.; Jiang, Z.; Yu, W.; and Wu, D. 2025{\natexlab{a}}.
+\newblock ARNet: Self-Supervised FG-SBIR with Unified Sample Feature Alignment
+  and Multi-Scale Token Recycling.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~39, 3985--3993.
+
+\bibitem[{Jiang et~al.(2025{\natexlab{b}})Jiang, Chen, Li, Yin, Zhou, Wang, Lv,
+  and Zhang}]{jiang2025acckv}
+Jiang, Z.; Chen, K.; Li, K.; Yin, K.; Zhou, Y.; Wang, Z.; Lv, C.; and Zhang, S.
+  2025{\natexlab{b}}.
+\newblock AccKV: Towards Efficient Audio-Video LLMs Inference via
+  Adaptive-Focusing and Cross-Calibration KV Cache Optimization.
+\newblock \emph{arXiv preprint arXiv:2511.11106}.
+
+\bibitem[{Jiang et~al.(2025{\natexlab{c}})Jiang, Li, Zhou, Liu, Wang, Zhang
+  et~al.}]{jiang2025purekv}
+Jiang, Z.; Li, K.; Zhou, Y.; Liu, S.; Wang, Z.; Zhang, S.; et~al.
+  2025{\natexlab{c}}.
+\newblock PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal
+  Sparse Attention for Vision-Language Large Models.
+\newblock \emph{arXiv preprint arXiv:2510.25600}.
+
+\bibitem[{Jiang et~al.(2025{\natexlab{d}})Jiang, Xu, Zhang, Shen, Li, Kuang,
+  Cai, and Wu}]{jiang2025fedcfa}
+Jiang, Z.; Xu, J.; Zhang, S.; Shen, T.; Li, J.; Kuang, K.; Cai, H.; and Wu, F.
+  2025{\natexlab{d}}.
+\newblock Fedcfa: Alleviating simpson’s paradox in model aggregation with
+  counterfactual federated learning.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~39, 17662--17670.
+
+\bibitem[{Karimi, Nutini, and Schmidt(2016)}]{karimi2016linear}
+Karimi, H.; Nutini, J.; and Schmidt, M. 2016.
+\newblock Linear convergence of gradient and proximal-gradient methods under
+  the polyak-{\l}ojasiewicz condition.
+\newblock In \emph{Joint European conference on machine learning and knowledge
+  discovery in databases}, 795--811. Springer.
+
+\bibitem[{Kerr et~al.(2022)Kerr, Huang, Wilcox, Hoque, Ichnowski, Calandra, and
+  Goldberg}]{kerr2022self}
+Kerr, J.; Huang, H.; Wilcox, A.; Hoque, R.; Ichnowski, J.; Calandra, R.; and
+  Goldberg, K. 2022.
+\newblock Self-supervised visuo-tactile pretraining to locate and follow
+  garment features.
+\newblock \emph{arXiv preprint arXiv:2209.13042}.
+
+\bibitem[{Krizhevsky, Hinton et~al.(2009)}]{krizhevsky2009learning}
+Krizhevsky, A.; Hinton, G.; et~al. 2009.
+\newblock Learning multiple layers of features from tiny images.
+
+\bibitem[{Lambeta et~al.(2020)Lambeta, Chou, Tian, Yang, Maloon, Most, Stroud,
+  Santos, Byagowi, Kammerer et~al.}]{lambeta2020digit}
+Lambeta, M.; Chou, P.-W.; Tian, S.; Yang, B.; Maloon, B.; Most, V.~R.; Stroud,
+  D.; Santos, R.; Byagowi, A.; Kammerer, G.; et~al. 2020.
+\newblock Digit: A novel design for a low-cost compact high-resolution tactile
+  sensor with application to in-hand manipulation.
+\newblock \emph{IEEE Robotics and Automation Letters}, 5(3): 3838--3845.
+
+\bibitem[{Lei et~al.(2024)Lei, Ge, Yi, Zhang, Gao, Sun, Ge, Shan, and
+  Shou}]{lei2024vit}
+Lei, W.; Ge, Y.; Yi, K.; Zhang, J.; Gao, D.; Sun, D.; Ge, Y.; Shan, Y.; and
+  Shou, M.~Z. 2024.
+\newblock Vit-lens: Towards omni-modal representations.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, 26647--26657.
+
+\bibitem[{Lei et~al.(2019)Lei, Hu, Li, and Tang}]{lei2019stochastic}
+Lei, Y.; Hu, T.; Li, G.; and Tang, K. 2019.
+\newblock Stochastic gradient descent for nonconvex learning without bounded
+  gradient assumptions.
+\newblock \emph{IEEE transactions on neural networks and learning systems},
+  31(10): 4394--4400.
+
+\bibitem[{Li et~al.(2025{\natexlab{a}})Li, Jiang, Shen, ZhaodeWang, Lv, Zhang,
+  Wu, and Wu}]{li2025madakv}
+Li, K.; Jiang, Z.; Shen, Z.; ZhaodeWang, Z.; Lv, C.; Zhang, S.; Wu, F.; and Wu,
+  F. 2025{\natexlab{a}}.
+\newblock MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient
+  Multimodal Long-Context Inference.
+\newblock In \emph{Proceedings of the 63rd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, 13306--13318.
+
+\bibitem[{Li et~al.(2025{\natexlab{b}})Li, Xiong, Jiang, Zhou, Wang, Lv, and
+  Zhang}]{li2025flowmm}
+Li, K.; Xiong, Y.; Jiang, Z.; Zhou, Y.; Wang, Z.; Lv, C.; and Zhang, S.
+  2025{\natexlab{b}}.
+\newblock FlowMM: Cross-Modal Information Flow Guided KV Cache Merging for
+  Efficient Multimodal Context Inference.
+\newblock \emph{arXiv preprint arXiv:2511.05534}.
+
+\bibitem[{Li et~al.(2025{\natexlab{c}})Li, Zhan, Fu, Zhang, Kuang, Li, Zhao,
+  Wu, and Wu}]{li2025mergenet}
+Li, K.; Zhan, T.; Fu, K.; Zhang, S.; Kuang, K.; Li, J.; Zhao, Z.; Wu, F.; and
+  Wu, F. 2025{\natexlab{c}}.
+\newblock Mergenet: Knowledge migration across heterogeneous models, tasks, and
+  modalities.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~39, 4824--4832.
+
+\bibitem[{Li et~al.(2023)Li, Fan, Hu, Feichtenhofer, and He}]{li2023scaling}
+Li, Y.; Fan, H.; Hu, R.; Feichtenhofer, C.; and He, K. 2023.
+\newblock Scaling language-image pre-training via masking.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, 23390--23400.
+
+\bibitem[{Loshchilov and Hutter(2017)}]{loshchilov2017decoupled}
+Loshchilov, I.; and Hutter, F. 2017.
+\newblock Decoupled weight decay regularization.
+\newblock \emph{arXiv preprint arXiv:1711.05101}.
+
+\bibitem[{Lv et~al.(2025{\natexlab{a}})Lv, Li, Chen, Dong, Han, and
+  Liao}]{lv2025out}
+Lv, X.; Li, M.; Chen, J.; Dong, Z.; Han, S.; and Liao, B. 2025{\natexlab{a}}.
+\newblock Out-of-Distribution Detection via LLM-Guided Outlier Generation for
+  Text-attributed Graph.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2025}, 19544--19555.
+
+\bibitem[{Lv et~al.(2025{\natexlab{b}})Lv, Wang, Chen, Su, Dong, Zhu, Liao, and
+  Wu}]{lv2025debiased}
+Lv, X.; Wang, G.; Chen, J.; Su, H.; Dong, Z.; Zhu, Y.; Liao, B.; and Wu, F.
+  2025{\natexlab{b}}.
+\newblock Debiased Cognition Representation Learning for Knowledge Tracing.
+\newblock \emph{ACM Transactions on Information Systems}.
+
+\bibitem[{Lyu et~al.(2024)Lyu, Zheng, Zhou, and Wang}]{lyu2024unibind}
+Lyu, Y.; Zheng, X.; Zhou, J.; and Wang, L. 2024.
+\newblock Unibind: Llm-augmented unified and balanced representation space to
+  bind them all.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, 26752--26762.
+
+\bibitem[{Ma et~al.(2022)Ma, Xu, Sun, Yan, Zhang, and Ji}]{ma2022x}
+Ma, Y.; Xu, G.; Sun, X.; Yan, M.; Zhang, J.; and Ji, R. 2022.
+\newblock X-clip: End-to-end multi-grained contrastive learning for video-text
+  retrieval.
+\newblock In \emph{Proceedings of the 30th ACM international conference on
+  multimedia}, 638--647.
+
+\bibitem[{Oord, Li, and Vinyals(2018)}]{oord2018representation}
+Oord, A. v.~d.; Li, Y.; and Vinyals, O. 2018.
+\newblock Representation learning with contrastive predictive coding.
+\newblock \emph{arXiv preprint arXiv:1807.03748}.
+
+\bibitem[{Ou, Chen, and Luo(2024)}]{ou2024marker}
+Ou, N.; Chen, Z.; and Luo, S. 2024.
+\newblock Marker or markerless? mode-switchable optical tactile sensing for
+  diverse robot tasks.
+\newblock \emph{IEEE Robotics and Automation Letters}.
+
+\bibitem[{Patel, Zhang, and Tian(2022)}]{patel2022global}
+Patel, V.; Zhang, S.; and Tian, B. 2022.
+\newblock Global convergence and stability of stochastic gradient descent.
+\newblock \emph{Advances in Neural Information Processing Systems}, 35:
+  36014--36025.
+
+\bibitem[{Pham et~al.(2020)Pham, Nguyen, Phan, and
+  Tran-Dinh}]{pham2020proxsarah}
+Pham, N.~H.; Nguyen, L.~M.; Phan, D.~T.; and Tran-Dinh, Q. 2020.
+\newblock ProxSARAH: An efficient algorithmic framework for stochastic
+  composite nonconvex optimization.
+\newblock \emph{Journal of Machine Learning Research}, 21(110): 1--48.
+
+\bibitem[{Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal,
+  Sastry, Askell, Mishkin, Clark et~al.}]{radford2021learning}
+Radford, A.; Kim, J.~W.; Hallacy, C.; Ramesh, A.; Goh, G.; Agarwal, S.; Sastry,
+  G.; Askell, A.; Mishkin, P.; Clark, J.; et~al. 2021.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock In \emph{International conference on machine learning}, 8748--8763.
+  PmLR.
+
+\bibitem[{R{\'a}duly et~al.(2018)R{\'a}duly, Sulyok, Vad{\'a}szi, and
+  Z{\"o}lde}]{raduly2018dog}
+R{\'a}duly, Z.; Sulyok, C.; Vad{\'a}szi, Z.; and Z{\"o}lde, A. 2018.
+\newblock Dog breed identification using deep learning.
+\newblock In \emph{2018 IEEE 16th International Symposium on Intelligent
+  Systems and Informatics (SISY)}, 000271--000276. IEEE.
+
+\bibitem[{Shi et~al.(2025)Shi, Zhang, Wu, Liang, Fang, Chen, and
+  Zhao}]{shi2025presentagent}
+Shi, J.; Zhang, Z.; Wu, B.; Liang, Y.; Fang, M.; Chen, L.; and Zhao, Y. 2025.
+\newblock Presentagent: Multimodal agent for presentation video generation.
+\newblock In \emph{Proceedings of the 2025 Conference on Empirical Methods in
+  Natural Language Processing: System Demonstrations}, 760--773.
+
+\bibitem[{Su et~al.(2024)Su, Ahmed, Lu, Pan, Bo, and Liu}]{su2024roformer}
+Su, J.; Ahmed, M.; Lu, Y.; Pan, S.; Bo, W.; and Liu, Y. 2024.
+\newblock Roformer: Enhanced transformer with rotary position embedding.
+\newblock \emph{Neurocomputing}, 568: 127063.
+
+\bibitem[{Tian, Krishnan, and Isola(2020)}]{tian2020contrastive}
+Tian, Y.; Krishnan, D.; and Isola, P. 2020.
+\newblock Contrastive multiview coding.
+\newblock In \emph{European conference on computer vision}, 776--794. Springer.
+
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones,
+  Gomez, Kaiser, and Polosukhin}]{vaswani2017attention}
+Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A.~N.;
+  Kaiser, {\L}.; and Polosukhin, I. 2017.
+\newblock Attention is all you need.
+\newblock \emph{Advances in neural information processing systems}, 30.
+
+\bibitem[{Wang et~al.(2022)Wang, Zhao, Yu, Chawla, and Jiang}]{wang2022deep}
+Wang, D.; Zhao, T.; Yu, W.; Chawla, N.~V.; and Jiang, M. 2022.
+\newblock Deep multimodal complementarity learning.
+\newblock \emph{IEEE Transactions on Neural Networks and Learning Systems},
+  34(12): 10213--10224.
+
+\bibitem[{Wang et~al.(2024)Wang, Zhang, Zhang, Liu, Huang, Cheng, Zhao, and
+  Zhao}]{wang2024omnibind}
+Wang, Z.; Zhang, Z.; Zhang, H.; Liu, L.; Huang, R.; Cheng, X.; Zhao, H.; and
+  Zhao, Z. 2024.
+\newblock Omnibind: Large-scale omni multimodal representation via binding
+  spaces.
+\newblock \emph{arXiv preprint arXiv:2407.11895}.
+
+\bibitem[{Wu et~al.(2024)Wu, Li, Chen, Ji, Lin, Gao, Kuang, Zhao, and
+  Wu}]{wu2024semantic}
+Wu, T.; Li, M.; Chen, J.; Ji, W.; Lin, W.; Gao, J.; Kuang, K.; Zhao, Z.; and
+  Wu, F. 2024.
+\newblock Semantic alignment for multimodal large language models.
+\newblock In \emph{Proceedings of the 32nd ACM International Conference on
+  Multimedia}, 3489--3498.
+
+\bibitem[{Xu et~al.(2025)Xu, Ju, Liu, and Yang}]{xu2025psmgd}
+Xu, M.; Ju, P.; Liu, J.; and Yang, H. 2025.
+\newblock PSMGD: Periodic stochastic multi-gradient descent for fast
+  multi-objective optimization.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~39, 21770--21778.
+
+\bibitem[{Xu, Zhu, and Clifton(2023)}]{xu2023multimodal}
+Xu, P.; Zhu, X.; and Clifton, D.~A. 2023.
+\newblock Multimodal learning with transformers: A survey.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 45(10): 12113--12132.
+
+\bibitem[{Xue et~al.(2023)Xue, Gao, Xing, Mart{\'\i}n-Mart{\'\i}n, Wu, Xiong,
+  Xu, Niebles, and Savarese}]{xue2023ulip}
+Xue, L.; Gao, M.; Xing, C.; Mart{\'\i}n-Mart{\'\i}n, R.; Wu, J.; Xiong, C.; Xu,
+  R.; Niebles, J.~C.; and Savarese, S. 2023.
+\newblock Ulip: Learning a unified representation of language, images, and
+  point clouds for 3d understanding.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, 1179--1189.
+
+\bibitem[{Yang et~al.(2024)Yang, Feng, Chen, Park, Wang, Dou, Zeng, Chen,
+  Gangopadhyay, Owens et~al.}]{yang2024binding}
+Yang, F.; Feng, C.; Chen, Z.; Park, H.; Wang, D.; Dou, Y.; Zeng, Z.; Chen, X.;
+  Gangopadhyay, R.; Owens, A.; et~al. 2024.
+\newblock Binding touch to everything: Learning unified multimodal tactile
+  representations.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, 26340--26353.
+
+\bibitem[{Yang et~al.(2022)Yang, Ma, Zhang, Zhu, Yuan, and
+  Owens}]{yang2022touch}
+Yang, F.; Ma, C.; Zhang, J.; Zhu, J.; Yuan, W.; and Owens, A. 2022.
+\newblock Touch and go: Learning from human-collected vision and touch.
+\newblock \emph{arXiv preprint arXiv:2211.12498}.
+
+\bibitem[{Yu et~al.(2024)Yu, Lin, Xiao, Duan, and Soh}]{yu2024octopi}
+Yu, S.; Lin, K.; Xiao, A.; Duan, J.; and Soh, H. 2024.
+\newblock Octopi: Object property reasoning with large tactile-language models.
+\newblock \emph{arXiv preprint arXiv:2405.02794}.
+
+\bibitem[{Yuan, Dong, and Adelson(2017)}]{yuan2017gelsight}
+Yuan, W.; Dong, S.; and Adelson, E.~H. 2017.
+\newblock Gelsight: High-resolution robot tactile sensors for estimating
+  geometry and force.
+\newblock \emph{Sensors}, 17(12): 2762.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{a}})Zhang, Huang, Jin, and
+  Lu}]{zhang2024vision}
+Zhang, J.; Huang, J.; Jin, S.; and Lu, S. 2024{\natexlab{a}}.
+\newblock Vision-language models for vision tasks: A survey.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 46(8): 5625--5644.
+
+\bibitem[{Zhang et~al.(2024{\natexlab{b}})Zhang, Yang, Sun, Bao, Shan, Gao, and
+  Fang}]{zhang2024compact}
+Zhang, S.; Yang, Y.; Sun, F.; Bao, L.; Shan, J.; Gao, Y.; and Fang, B.
+  2024{\natexlab{b}}.
+\newblock A compact visuo-tactile robotic skin for micron-level tactile
+  perception.
+\newblock \emph{IEEE Sensors Journal}, 24(9): 15273--15282.
+
+\bibitem[{Zhao et~al.(2023)Zhao, Cai, Si, Ma, An, Chen, Liu, Wang, Han, and
+  Chang}]{zhao2023mmicl}
+Zhao, H.; Cai, Z.; Si, S.; Ma, X.; An, K.; Chen, L.; Liu, Z.; Wang, S.; Han,
+  W.; and Chang, B. 2023.
+\newblock Mmicl: Empowering vision-language model with multi-modal in-context
+  learning.
+\newblock \emph{arXiv preprint arXiv:2309.07915}.
+
+\bibitem[{Zhao et~al.(2024{\natexlab{a}})Zhao, Ma, Wang, and
+  Adelson}]{zhao2024transferable}
+Zhao, J.; Ma, Y.; Wang, L.; and Adelson, E.~H. 2024{\natexlab{a}}.
+\newblock Transferable tactile transformers for representation learning across
+  diverse sensors and tasks.
+\newblock \emph{arXiv preprint arXiv:2406.13640}.
+
+\bibitem[{Zhao et~al.(2024{\natexlab{b}})Zhao, Feng, Feng, Zhong, Xu, Yang,
+  Liu, Qin, and Liu}]{zhao2024length}
+Zhao, L.; Feng, X.; Feng, X.; Zhong, W.; Xu, D.; Yang, Q.; Liu, H.; Qin, B.;
+  and Liu, T. 2024{\natexlab{b}}.
+\newblock Length extrapolation of transformers: A survey from the perspective
+  of positional encoding.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2024}, 9959--9977.
+
+\bibitem[{Zhou, Han, and Chen(2025)}]{zhou2025revisiting}
+Zhou, Y.; Han, W.; and Chen, J. 2025.
+\newblock Revisiting applicable and comprehensive knowledge tracing in
+  large-scale data.
+\newblock In \emph{Joint European Conference on Machine Learning and Knowledge
+  Discovery in Databases}, 235--251. Springer.
+
+\bibitem[{Zhou et~al.(2025{\natexlab{a}})Zhou, Lv, Zhang, and
+  Chen}]{zhou2025cuff}
+Zhou, Y.; Lv, Z.; Zhang, S.; and Chen, J. 2025{\natexlab{a}}.
+\newblock Cuff-KT: Tackling Learners' Real-time Learning Pattern Adjustment via
+  Tuning-Free Knowledge State Guided Model Updating.
+\newblock In \emph{Proceedings of the 31st ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining V. 2}, 4144--4155.
+
+\bibitem[{Zhou et~al.(2025{\natexlab{b}})Zhou, Lv, Zhang, and
+  Chen}]{zhou2025disentangled}
+Zhou, Y.; Lv, Z.; Zhang, S.; and Chen, J. 2025{\natexlab{b}}.
+\newblock Disentangled knowledge tracing for alleviating cognitive bias.
+\newblock In \emph{Proceedings of the ACM on Web Conference 2025}, 2633--2645.
+
+\bibitem[{Zhou, Yao, and Chen(2025)}]{zhou2025cola}
+Zhou, Y.; Yao, C.; and Chen, J. 2025.
+\newblock Cola: Collaborative low-rank adaptation.
+\newblock \emph{arXiv preprint arXiv:2505.15471}.
+
+\end{thebibliography}
