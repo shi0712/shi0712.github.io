@@ -29,13 +29,13 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '26 (CCF-A)</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '26 Main (CCF-A)</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions](https://arxiv.org/abs/2602.20213)
 
 <span style="text-decoration: underline;">
-  <span style="font-weight: bold;">Jingwei Shi</span>*, <span style="font-weight: bold;">Xinxiang Yin</span>*, Jing Huang*
+  <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Xinxiang Yin&#42;, Jing Huang&#42;
 </span>, Jinman Zhao, Shengyu Tao
 
 [**Paper**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 [Beyond Student: An Asymmetric Network for Neural Network Inheritance](https://arxiv.org/abs/2602.09509)
 
 <span style="text-decoration: underline;">
-  Yiyun Zhou*, <span style="font-weight: bold;">Jingwei Shi</span>*, Mingjing Xu*
+  Yiyun Zhou&#42;, <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Mingjing Xu&#42;
 </span>, Zhonghua Jiang, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 [PresentAgent: Multimodal Agent for Presentation Video Generation](https://arxiv.org/abs/2507.04036)
 
 <span style="text-decoration: underline;">
-  <span style="font-weight: bold;">Jingwei Shi</span>*, Zeyu Zhang*, Biao Wu*, Yanjie Liang*
+  <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Zeyu Zhang&#42;, Biao Wu&#42;, Yanjie Liang&#42;
 </span>, Meng Fang, Ling Chen, Yang Zhao
 
 [**Paper**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
@@ -74,7 +74,7 @@ My research interest includes neural machine translation and computer vision. I 
 [Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512)
 
 <span style="text-decoration: underline;">
-  Yiyun Zhou*, Mingjing Xu*, <span style="font-weight: bold;">Jingwei Shi</span>*
+  Yiyun Zhou&#42;, Mingjing Xu&#42;, <span style="font-weight: bold;">Jingwei Shi</span>&#42;
 </span>, Quanjiang Li, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
