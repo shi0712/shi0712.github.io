@@ -29,51 +29,59 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '26 (CCF-A)</div><img src='images/framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '26 (CCF-A)</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions](https://arxiv.org/abs/2602.20213)
 
-<span style="text-decoration: underline;">Jingwei Shi*, <span style="font-weight: bold;">Xinxiang Yin</span>*, Jing Huang*</span>, Jinman Zhao, Shengyu Tao
+<span style="text-decoration: underline;">
+  <span style="font-weight: bold;">Jingwei Shi</span>*, <span style="font-weight: bold;">Xinxiang Yin</span>*, Jing Huang*
+</span>, Jinman Zhao, Shengyu Tao
 
 [**Paper**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR '26 (CCF-A)</div><img src='images/Method4.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR '26 (CCF-A)</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Student: An Asymmetric Network for Neural Network Inheritance](https://arxiv.org/abs/2602.09509)
 
-<span style="text-decoration: underline;">Yiyun Zhou*, Jingwei Shi*, Mingjing Xu*</span>, Zhonghua Jiang, Jingyuan Chen
+<span style="text-decoration: underline;">
+  Yiyun Zhou*, <span style="font-weight: bold;">Jingwei Shi</span>*, Mingjing Xu*
+</span>, Zhonghua Jiang, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP '25 Demo</div><img src='images/overview.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP '25 Demo</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PresentAgent: Multimodal Agent for Presentation Video Generation](https://arxiv.org/abs/2507.04036)
 
-<span style="text-decoration: underline;">Jingwei Shi*, Zeyu Zhang*, Biao Wu*, Yanjie Liang*</span>, Meng Fang, Ling Chen, Yang Zhao
+<span style="text-decoration: underline;">
+  <span style="font-weight: bold;">Jingwei Shi</span>*, Zeyu Zhang*, Biao Wu*, Yanjie Liang*
+</span>, Meng Fang, Ling Chen, Yang Zhao
 
 [**Paper**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI '26 (CCF-A)</div><img src='images/Method.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI '26 (CCF-A)</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities](https://arxiv.org/abs/2511.11512)
 
-<span style="text-decoration: underline;">Yiyun Zhou*, Mingjing Xu*, Jingwei Shi*</span>, Quanjiang Li, Jingyuan Chen
+<span style="text-decoration: underline;">
+  Yiyun Zhou*, Mingjing Xu*, <span style="font-weight: bold;">Jingwei Shi</span>*
+</span>, Quanjiang Li, Jingyuan Chen
 
 [**Paper**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '25 Demo</div><img src='images/comparison.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL '25 Demo</div><img src='images/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents](https://arxiv.org/abs/2503.23948)
