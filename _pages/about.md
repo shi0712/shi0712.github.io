@@ -42,6 +42,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE '26 (CCF-A)</div><img src='images/alignsketch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AlignSketch: A Framework for Aligning Theoretical and Practical Estimation Errors](https://shi0712.github.io/AlignSketch_ICDE2026.pdf)
+
+<span style="text-decoration: underline;">
+  Ce Zheng, Hanyue Zheng, <span style="font-weight: bold;">Jingwei Shi</span>, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu Guan, Yong Cui
+</span>
+
+[**Paper**](https://shi0712.github.io/AlignSketch_ICDE2026.pdf)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR '26 (CCF-A)</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
