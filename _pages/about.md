@@ -24,9 +24,10 @@ My research interests include large language models and AI agents. Welcome resea
 
 # 🔥 News
 - *2026.04*:&nbsp;📝 our work [**CodeHacker**](https://arxiv.org/pdf/2602.20213) has been accepted as main conference of ACL'26 !
+- *2026.03*:&nbsp;🎉 Received MPhil offer from The Hong Kong Polytechnic University (ISE, Industrial and Systems Engineering) !
 - *2026.03*:&nbsp;📝 our work [**AlignSketch**](https://shi0712.github.io/AlignSketch_ICDE2026.pdf) has been accepted by ICDE'26 !
-- *2026.01*:&nbsp;📝 our work [**Beyond Student**](https://arxiv.org/pdf/2602.09509) has been accepted by ICLR'26 !
-- *2025.11*:&nbsp;📝 our work [**Collaborative Representation Learning**](https://arxiv.org/pdf/2511.11512) has been accepted by AAAI'26 !
+- *2026.01*:&nbsp;📝 our work [**InherNet**](https://arxiv.org/pdf/2602.09509) has been accepted by ICLR'26 !
+- *2025.11*:&nbsp;📝 our work [**TLV-Core**](https://arxiv.org/pdf/2511.11512) has been accepted by AAAI'26 !
 - *2025.09*:&nbsp;📝 our work [**PresentAgent**](https://arxiv.org/pdf/2507.04036) has been accepted as demo paper of EMNLP'25 !
 - *2025.05*:&nbsp;📝 our work [**AI2Agent**](https://arxiv.org/pdf/2503.23948) has been accepted as demo paper of ACL'25 !
 
