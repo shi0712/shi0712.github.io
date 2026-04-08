@@ -109,6 +109,7 @@ Jiaxiang Chen, **Jingwei Shi**, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zha
 - *2023.09* Second Prize, Undergraduate People’s Scholarship
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Bachelor of Science in Data Science and Big Data Technology (Pilot Experimental Class), Shanghai University of Finance and Economics. 
 - *2026.09 - 2028.06*, Master of Philosophy, The Hong Kong Polytechnic University. 
+- *2022.09 - 2026.06*, Bachelor of Science in Data Science and Big Data Technology (Pilot Experimental Class), Shanghai University of Finance and Economics. 
+
                                                                            
