@@ -43,7 +43,6 @@ My research interests include large language models and AI agents. Welcome resea
   <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Xinxiang Yin&#42;, Jing Huang&#42;
 </span>, Jinman Zhao, Shengyu Tao
 
-[**Paper**](https://arxiv.org/abs/2602.20213) <strong><span class='show_paper_citations' data='2602.20213'></span></strong>
 </div>
 </div>
 
@@ -54,7 +53,6 @@ My research interests include large language models and AI agents. Welcome resea
 
 Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu Guan, Yong Cui
 
-[**Paper**](https://shi0712.github.io/AlignSketch_ICDE2026.pdf)
 </div>
 </div>
 
@@ -67,7 +65,6 @@ Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu G
   Yiyun Zhou&#42;, <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Mingjing Xu&#42;
 </span>, Zhonghua Jiang, Jingyuan Chen
 
-[**Paper**](https://arxiv.org/abs/2602.09509) <strong><span class='show_paper_citations' data='2602.09509'></span></strong>
 </div>
 </div>
 
@@ -80,7 +77,6 @@ Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu G
   <span style="font-weight: bold;">Jingwei Shi</span>&#42;, Zeyu Zhang&#42;, Biao Wu&#42;, Yanjie Liang&#42;
 </span>, Meng Fang, Ling Chen, Yang Zhao
 
-[**Paper**](https://arxiv.org/abs/2507.04036) <strong><span class='show_paper_citations' data='2507.04036'></span></strong>
 </div>
 </div>
 
@@ -93,7 +89,6 @@ Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu G
   Yiyun Zhou&#42;, Mingjing Xu&#42;, <span style="font-weight: bold;">Jingwei Shi</span>&#42;
 </span>, Quanjiang Li, Jingyuan Chen
 
-[**Paper**](https://arxiv.org/abs/2511.11512) <strong><span class='show_paper_citations' data='2511.11512'></span></strong>
 </div>
 </div>
 
@@ -104,7 +99,6 @@ Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu G
 
 Jiaxiang Chen, **Jingwei Shi**, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zhang, Xin Pang, Zhucong Li, Yinghui Xu
 
-[**Paper**](https://arxiv.org/abs/2503.23948) <strong><span class='show_paper_citations' data='2503.23948'></span></strong>
 </div>
 </div>
 
