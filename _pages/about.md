@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jingwei Shi, currently a senior undergraduate student at Shanghai University of Finance and Economics, majoring in Data Science and Big Data Technology. I will pursue my Master of Philosophy at The Hong Kong Polytechnic University starting in September 2026.
+I am Jingwei Shi (史靖玮), currently a senior undergraduate student at Shanghai University of Finance and Economics, majoring in Data Science and Big Data Technology. I will pursue my Master of Philosophy at The Hong Kong Polytechnic University starting in September 2026.
 
 My research interests include large language models and AI agents. Welcome researchers in the same field to communicate and collaborate.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
@@ -104,8 +103,10 @@ Jiaxiang Chen, **Jingwei Shi**, Lei Gan, Jiale Zhang, Qingyu Zhang, Dongqian Zha
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* Gold Medal, 48th ICPC Regional Contest (Hangzhou)
+- *2024.10* Silver Medal, CCPC China Collegiate Programming Contest (Jinan)
+- *2024.10* Silver Medal, CCPC China Collegiate Programming Contest (Harbin)
+- *2023.09* Second Prize, Undergraduate People’s Scholarship
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Bachelor of Science in Data Science and Big Data Technology (Pilot Experimental Class), Shanghai University of Finance and Economics. 
