@@ -47,9 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [AlignSketch: A Framework for Aligning Theoretical and Practical Estimation Errors](https://shi0712.github.io/AlignSketch_ICDE2026.pdf)
 
-<span style="text-decoration: underline;">
-  Ce Zheng, Hanyue Zheng, <span style="font-weight: bold;">Jingwei Shi</span>, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu Guan, Yong Cui
-</span>
+Ce Zheng, Hanyue Zheng, **Jingwei Shi**, Xinye Xu, Wei Zhou, Tong Yang, Zhenyu Guan, Yong Cui
 
 [**Paper**](https://shi0712.github.io/AlignSketch_ICDE2026.pdf)
 </div>
